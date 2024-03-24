@@ -35186,14 +35186,14 @@ const Kie = {
     },
     Vie = {
         NAME: "NOMEN",
-        NAME_PLACEHOLDER: "NOMEN TUUM SCRIBE",
-        PASSWORD_PLACEHOLDER: "INGREDERE CLAVEM QUINQUE LITTERARUM",
+        NAME_PLACEHOLDER: "SCRIBE NOMEN TUUM",
+        PASSWORD_PLACEHOLDER: "INGREDERE CLAVEM",
         PASSWORD_REQUIRED_TITLE: "Clavis necessarua est",
         PASSWORD_REQUIRED_BODY: "Aut tesseram ingredere aut ut spectator adesto",
         PASSWORD_JOIN_AS_PLAYER: "Participare ut lusor",
         PASSWORD_JOIN_AS_AUDIENCE: "Concurrere ad auditorium",
         ROOM_CODE: "CUBICULUM CLAVIS",
-        ROOM_CODE_PLACEHOLDER: "INGREDERE CODICEM QUATTUOR LITTERARUM"
+        ROOM_CODE_PLACEHOLDER: "INGREDERE CODICEM"
     },
     Fie = "Ad Jackbox Ludorum Pagina Prima",
     Hie = {
@@ -35230,26 +35230,26 @@ const Kie = {
     jie = {
         TITLE: "LUDI RECENTES",
         VIEW_ALL: {
-            BUTTON: "VIEW ALL",
-            LINK: "VIEW ALL PAST GAMES"
+            BUTTON: "INSPICE OMNIA",
+            LINK: "INSPICE OMNIA LUDOS PRAETERITOS"
         }
     },
     zie = {
-        GAME_FULL: "Game is full",
-        GAME_STARTED: "Game has started",
-        ROOM_NOT_FOUND: "Room not found"
+        GAME_FULL: "Ludus plenus est",
+        GAME_STARTED: "Ludus incepit",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur"
     },
     qie = {
-        GAME_FULL: "GAME IS FULL",
-        GAME_STARTED: "GAME HAS STARTED",
-        JOIN_AUDIENCE: "JOIN AUDIENCE",
-        RECONNECT: "RECONNECT",
-        TWITCH_LOGIN: "LOGIN WITH TWITCH"
+        GAME_FULL: "LUDUS PLENUS EST",
+        GAME_STARTED: "LUDUS INCEPIT",
+        JOIN_AUDIENCE: "ADIUNGERE AUDITORIBUS",
+        RECONNECT: "RESTITUERE",
+        TWITCH_LOGIN: "ACCEDERE PER TWITCH"
     },
     Yie = {
-        CAMERA: "[b]HEADS UP:[/b] We’re not detecting a camera, but you can still play the game without a photo. If this seems wrong, try joining with a different browser.",
-        STYLE: "[b]HEADS UP:[/b] Your browser seems a bit outdated, and will have some issues displaying this game.",
-        TOS: "By clicking {submit}, you agree to our [tos]Terms of Service[/tos]"
+        CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
+        STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
+        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     Jie = {
         BRANCH: Kie,
@@ -35273,94 +35273,93 @@ const Kie = {
         WAITING: "En attente de la salle"
     },
     Qie = {
-        ACCEPT_ALL: "Compris !",
+        ACCEPT_ALL: "Intellexi!",
         CONSENT_MODAL: {
-            ARIA: "Formulaire d'acceptation des cookies"
+            ARIA: "Cookie consent form"
         },
-        DESCRIPTION: "Nous utilisons les cookies pour améliorer votre expérience de jeu et analyser le trafic du site. Plus d'infos sur notre [pp]politique de confidentialité[/pp].",
-        REJECT_ALL: "Refuser"
+        DESCRIPTION: "Ad ludum melius experiendum et usum paginae nostrae spectandum utimur crustulis. Plura in [pp]lege de secreti fide[/pp] invenias.",
+        REJECT_ALL: "Recusare"
     },
     ese = {
-        UNSUPPORTED_BROWSER: "Le jeu n'est pas compatible avec votre navigateur. Allez sur '?' ou sur AIDE pour afficher une liste des navigateurs compatibles.",
-        ROOM_IS_FULL: "La salle est pleine.",
-        ROOM_NOT_FOUND: "Salle introuvable",
-        AUDIENCE_IS_FULL: "Il n'y a plus de place dans le public.",
-        UNABLE_TO_CONNECT: "Impossible de se connecter au serveur de Jackbox Games. Les bloqueurs de publicité ou les modules de protection de la confidentialité sont généralement à l'origine de ce problème.",
-        UNABLE_TO_PRELOAD: "Impossible de précharger ce pack de jeux",
-        KICKED: "Vous ne pouvez pas rejoindre la partie, parce que vous avez été éjecté(e) par un modérateur.",
-        REQUIRES_TWITCH_LOGIN: "Ce jeu nécessite une connexion Twitch.",
-        ROOM_IS_LOCKED: "La salle est fermée.",
-        INCORRECT_PASSWORD: "Mot de passe incorrect",
-        GENERIC: "Erreur en rejoignant la salle",
-        FILTER_NAME: "Le filtre anti-grossièreté est activé pour cette partie. Veuillez choisir un autre nom."
+        UNSUPPORTED_BROWSER: "Hic ludus in hoc navigatro interretiali non sustinetur. Videre '?' aut 'AUXILIUM' indicem congruentium exploratorum ostendit.",
+        ROOM_IS_FULL: "Ludus plenus est",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur",
+        AUDIENCE_IS_FULL: "Auditorium completum est",
+        UNABLE_TO_CONNECT: "Ad server Jackbox ludorum conecti non potest. Hoc saepius propter extensiones quae advertisementum et usum dativum coercent fit.",
+        UNABLE_TO_PRELOAD: "Hoc fasciculus ludi praeparare nequit",
+        KICKED: "Concedere tibi non licet, quia a moderatore expulsus es.",
+        REQUIRES_TWITCH_LOGIN: "Ludus per Twitch accedere necessarium est",
+        ROOM_IS_LOCKED: "Ludus prohibitus est",
+        INCORRECT_PASSWORD: "Clavis falsa",
+        GENERIC: "In ludo coniungendo error factus est",
+        FILTER_NAME: "In hoc ludo verba obscena vetantur. Nomen aliud elige, rogamus."
     },
     tse = {
-        NAME: "NOM",
-        NAME_PLACEHOLDER: "INDIQUEZ VOTRE NOM",
-        PASSWORD_PLACEHOLDER: "TAPEZ UN MOT DE PASSE À 5 CHIFFRES",
-        PASSWORD_REQUIRED_TITLE: "Mot de passe requis",
-        PASSWORD_REQUIRED_BODY: "Indiquez le mot de passe ou rejoignez la salle en tant que spectateur.",
-        PASSWORD_JOIN_AS_PLAYER: "Rejoindre en tant que joueur",
-        PASSWORD_JOIN_AS_AUDIENCE: "Rejoindre en tant que spectateur",
-        ROOM_CODE: "CODE DE SALLE",
-        ROOM_CODE_PLACEHOLDER: "TAPEZ LE CODE À 4 LETTRES"
+        NAME: "NOMEN",
+        NAME_PLACEHOLDER: "SCRIBE NOMEN TUUM",
+        PASSWORD_PLACEHOLDER: "INGREDERE CLAVEM",
+        PASSWORD_REQUIRED_TITLE: "Clavis necessarua est",
+        PASSWORD_REQUIRED_BODY: "Aut tesseram ingredere aut ut spectator adesto",
+        PASSWORD_JOIN_AS_PLAYER: "Participare ut lusor",
+        PASSWORD_JOIN_AS_AUDIENCE: "Concurrere ad auditorium",
+        ROOM_CODE: "CUBICULUM CLAVIS",
+        ROOM_CODE_PLACEHOLDER: "INGREDERE CODICEM"
     },
-    rse = "Lien vers la page d'accueil de Jackbox Games",
+    rse = "Ad Jackbox Ludorum Pagina Prima",
     nse = {
-        APPEARANCE: "APPARENCE",
-        DARK: "sombre",
-        HELP: "AIDE",
+        APPEARANCE: "FACIES",
+        DARK: "tenebrosus",
+        HELP: "AUXILIUM",
         TWITCH: "TWITCH",
-        LIGHT: "clair",
-        LOGOUT: "DÉCONNEXION",
-        MERCH: "PRODUITS DÉRIVÉS",
-        PAST_GAMES: "ANCIENNES PARTIES",
-        MAILING_LIST: "LISTE DE DIFFUSION",
-        MODERATOR: "MODÉRATEUR"
+        LIGHT: "luminosus",
+        LOGOUT: "DISCERDERE",
+        MERCH: "MERCES",
+        PAST_GAMES: "LUDI FACTI",
+        MAILING_LIST: "INDEX INSCRIPTIONUM ELECTRONICARUM",
+        MODERATOR: "MODERATOR"
     },
     ise = {
         CALL_TO_ACTION: {
-            SHOP: "VOIR LE JEU ET LA BOUTIQUE",
-            VIEW: "VOIR CETTE PARTIE"
+            SHOP: "MERCARE ET LUDUM INSPICERE",
+            VIEW: "APERIRE HUNC LUDUM"
         },
-        NEW: "NOUVEAU",
-        PLAYED_ON: "JOUÉE LE",
+        NEW: "NOVUS",
+        PLAYED_ON: "LUSA SUNT DIE",
         REMOVE: {
-            CONFIRM: "Êtes-vous sûr ?",
-            DESCRIPTION: `Cela supprimera définitivement cette partie
-de votre liste d'anciennes parties.`,
-            MANAGE: "Supprimer la partie ?",
-            TITLE: "Êtes-vous sûr ?"
+            CONFIRM: "Certusne es?",
+            DESCRIPTION: `Hoc ludum ex indice ludorum praeteritorum perpetuo auferet.`,
+            MANAGE: "Ludum amovere vis?",
+            TITLE: "Certusne Es?"
         }
     },
     sse = {
-        EMPTY: "Aucune ancienne partie",
-        MANAGE: "GÉRER",
-        TITLE: "VOS ANCIENNES PARTIES"
+        EMPTY: "Nullae Ludi Adhuc",
+        MANAGE: "ADMINISTRARE",
+        TITLE: "LUDI TUI PRAETERITI"
     },
     ase = {
-        TITLE: "PARTIES RÉCENTES",
+        TITLE: "LUDI RECENTES",
         VIEW_ALL: {
-            BUTTON: "VOIR TOUT",
-            LINK: "VOIR TOUTES LES ANCIENNES PARTIES"
+            BUTTON: "INSPICE OMNIA",
+            LINK: "INSPICE OMNIA LUDOS PRAETERITOS"
         }
     },
     ose = {
-        GAME_FULL: "La salle est pleine.",
-        GAME_STARTED: "La partie a commencé.",
-        ROOM_NOT_FOUND: "Salle introuvable"
+        GAME_FULL: "Ludus plenus est",
+        GAME_STARTED: "Ludus incepit",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur"
     },
     lse = {
-        GAME_FULL: "LA SALLE EST PLEINE.",
-        GAME_STARTED: "LA PARTIE A COMMENCÉ.",
-        JOIN_AUDIENCE: "REJOINDRE EN TANT QUE SPECTATEUR",
-        RECONNECT: "SE RECONNECTER",
-        TWITCH_LOGIN: "SE CONNECTER AVEC TWITCH"
+        GAME_FULL: "LUDUS PLENUS EST",
+        GAME_STARTED: "LUDUS INCEPIT",
+        JOIN_AUDIENCE: "ADIUNGERE AUDITORIBUS",
+        RECONNECT: "RESTITUERE",
+        TWITCH_LOGIN: "ACCEDERE PER TWITCH"
     },
     use = {
-        CAMERA: "[b]ATTENTION :[/b] Nous ne détectons aucune caméra, mais vous pouvez jouer sans afficher votre photo. Si vous pensez qu'il s'agit d'une erreur, essayez de rejoindre en utilisant un autre navigateur.",
-        STYLE: "[b]ATTENTION :[/b] Votre navigateur semble obsolète. Vous risquez de rencontrer des problèmes d'affichage avec ce jeu.",
-        TOS: "En cliquant sur {submit}, vous acceptez nos [tos]Conditions de service[/tos]."
+        CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
+        STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
+        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     fse = {
         BRANCH: Zie,
@@ -35384,94 +35383,93 @@ de votre liste d'anciennes parties.`,
         WAITING: "In attesa di una stanza"
     },
     pse = {
-        ACCEPT_ALL: "Capito!",
+        ACCEPT_ALL: "Intellexi!",
         CONSENT_MODAL: {
-            ARIA: "Modulo di consenso sui cookie"
+            ARIA: "Cookie consent form"
         },
-        DESCRIPTION: "Usiamo i cookie per migliorare l'esperienza di gioco e analizzare il traffico del sito web. Per maggiori informazioni consulta la nostra [pp]Informativa sulla privacy[/pp].",
-        REJECT_ALL: "Nega consenso"
+        DESCRIPTION: "Ad ludum melius experiendum et usum paginae nostrae spectandum utimur crustulis. Plura in [pp]lege de secreti fide[/pp] invenias.",
+        REJECT_ALL: "Recusare"
     },
     dse = {
-        UNSUPPORTED_BROWSER: "Il gioco non è supportato dal browser attualmente in uso. Clicca su '?' o AIUTO per visualizzare la lista dei browser compatibili.",
-        ROOM_IS_FULL: "La partita è al completo",
-        ROOM_NOT_FOUND: "Stanza non trovata",
-        AUDIENCE_IS_FULL: "Il pubblico è al completo",
-        UNABLE_TO_CONNECT: "Impossibile collegarsi al server Jackbox Games. Solitamente il problema è causato da adblocker o estensioni per la privacy.",
-        UNABLE_TO_PRELOAD: "Impossibile pre-caricare questo bundle di giochi",
-        KICKED: "Non puoi unirti perché un moderatore ti ha cacciato",
-        REQUIRES_TWITCH_LOGIN: "Questo gioco richiede l'accesso a Twitch",
-        ROOM_IS_LOCKED: "La stanza è bloccata",
-        INCORRECT_PASSWORD: "Password errata",
-        GENERIC: "Impossibile entrare in questa stanza",
-        FILTER_NAME: "Questa partita ha i filtri delle volgarità attivi. Scegli un nome diverso."
+        UNSUPPORTED_BROWSER: "Hic ludus in hoc navigatro interretiali non sustinetur. Videre '?' aut 'AUXILIUM' indicem congruentium exploratorum ostendit.",
+        ROOM_IS_FULL: "Ludus plenus est",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur",
+        AUDIENCE_IS_FULL: "Auditorium completum est",
+        UNABLE_TO_CONNECT: "Ad server Jackbox ludorum conecti non potest. Hoc saepius propter extensiones quae advertisementum et usum dativum coercent fit.",
+        UNABLE_TO_PRELOAD: "Hoc fasciculus ludi praeparare nequit",
+        KICKED: "Concedere tibi non licet, quia a moderatore expulsus es.",
+        REQUIRES_TWITCH_LOGIN: "Ludus per Twitch accedere necessarium est",
+        ROOM_IS_LOCKED: "Ludus prohibitus est",
+        INCORRECT_PASSWORD: "Clavis falsa",
+        GENERIC: "In ludo coniungendo error factus est",
+        FILTER_NAME: "In hoc ludo verba obscena vetantur. Nomen aliud elige, rogamus."
     },
     hse = {
-        NAME: "NOME",
-        NAME_PLACEHOLDER: "INSERISCI IL TUO NOME",
-        PASSWORD_PLACEHOLDER: "INSERISCI LA PASSWORD DI 5 CARATTERI",
-        PASSWORD_REQUIRED_TITLE: "Password necessaria",
-        PASSWORD_REQUIRED_BODY: "Inserisci la password o partecipa come pubblico",
-        PASSWORD_JOIN_AS_PLAYER: "Partecipa come giocatore",
-        PASSWORD_JOIN_AS_AUDIENCE: "Partecipa come pubblico",
-        ROOM_CODE: "CODICE STANZA",
-        ROOM_CODE_PLACEHOLDER: "INSERISCI IL CODICE DI 4 LETTERE"
+        NAME: "NOMEN",
+        NAME_PLACEHOLDER: "SCRIBE NOMEN TUUM",
+        PASSWORD_PLACEHOLDER: "INGREDERE CLAVEM",
+        PASSWORD_REQUIRED_TITLE: "Clavis necessarua est",
+        PASSWORD_REQUIRED_BODY: "Aut tesseram ingredere aut ut spectator adesto",
+        PASSWORD_JOIN_AS_PLAYER: "Participare ut lusor",
+        PASSWORD_JOIN_AS_AUDIENCE: "Concurrere ad auditorium",
+        ROOM_CODE: "CUBICULUM CLAVIS",
+        ROOM_CODE_PLACEHOLDER: "INGREDERE CODICEM"
     },
-    Ese = "Link alla homepage di Jackbox Games",
+    Ese = "Ad Jackbox Ludorum Pagina Prima",
     mse = {
-        APPEARANCE: "ASPETTO",
-        DARK: "scuro",
-        HELP: "AIUTO",
+        APPEARANCE: "FACIES",
+        DARK: "tenebrosus",
+        HELP: "AUXILIUM",
         TWITCH: "TWITCH",
-        LIGHT: "chiaro",
-        LOGOUT: "ESCI",
-        MERCH: "NEGOZIO",
-        PAST_GAMES: "PARTITE PRECEDENTI",
-        MAILING_LIST: "NEWSLETTER",
-        MODERATOR: "MODERATORE"
+        LIGHT: "luminosus",
+        LOGOUT: "DISCERDERE",
+        MERCH: "MERCES",
+        PAST_GAMES: "LUDI FACTI",
+        MAILING_LIST: "INDEX INSCRIPTIONUM ELECTRONICARUM",
+        MODERATOR: "MODERATOR"
     },
     gse = {
         CALL_TO_ACTION: {
-            SHOP: "VISUALIZZA GIOCO E NEGOZIO",
-            VIEW: "VISUALIZZA QUESTO GIOCO"
+            SHOP: "MERCARE ET LUDUM INSPICERE",
+            VIEW: "APERIRE HUNC LUDUM"
         },
-        NEW: "NUOVO",
-        PLAYED_ON: "GIOCATO IL",
+        NEW: "NOVUS",
+        PLAYED_ON: "LUSA SUNT DIE",
         REMOVE: {
-            CONFIRM: "Confermi?",
-            DESCRIPTION: `Quest'azione rimuoverà per sempre questo gioco
-dalla lista dei giochi precedenti.`,
-            MANAGE: "Rimuovere gioco?",
-            TITLE: "Confermi?"
+            CONFIRM: "Certusne es?",
+            DESCRIPTION: `Hoc ludum ex indice ludorum praeteritorum perpetuo auferet.`,
+            MANAGE: "Ludum amovere vis?",
+            TITLE: "Certusne Es?"
         }
     },
     _se = {
-        EMPTY: "Nessun gioco precedente",
-        MANAGE: "GESTISCI",
-        TITLE: "I TUOI GIOCHI PRECEDENTI"
+        EMPTY: "Nullae Ludi Adhuc",
+        MANAGE: "ADMINISTRARE",
+        TITLE: "LUDI TUI PRAETERITI"
     },
     Tse = {
-        TITLE: "GIOCHI RECENTI",
+        TITLE: "LUDI RECENTES",
         VIEW_ALL: {
-            BUTTON: "VISUALIZZA TUTTO",
-            LINK: "VISUALIZZA TUTTI I GIOCHI RECENTI"
+            BUTTON: "INSPICE OMNIA",
+            LINK: "INSPICE OMNIA LUDOS PRAETERITOS"
         }
     },
     vse = {
-        GAME_FULL: "La partita è al completo",
-        GAME_STARTED: "La partita è già iniziata",
-        ROOM_NOT_FOUND: "Stanza non trovata"
+        GAME_FULL: "Ludus plenus est",
+        GAME_STARTED: "Ludus incepit",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur"
     },
     xse = {
-        GAME_FULL: "LA PARTITA È AL COMPLETO",
-        GAME_STARTED: "LA PARTITA È GIÀ INIZIATA",
-        JOIN_AUDIENCE: "PARTECIPA COME PUBBLICO",
-        RECONNECT: "RICOLLEGATI",
-        TWITCH_LOGIN: "ACCEDI CON TWITCH"
+        GAME_FULL: "LUDUS PLENUS EST",
+        GAME_STARTED: "LUDUS INCEPIT",
+        JOIN_AUDIENCE: "ADIUNGERE AUDITORIBUS",
+        RECONNECT: "RESTITUERE",
+        TWITCH_LOGIN: "ACCEDERE PER TWITCH"
     },
     bse = {
-        CAMERA: "[b]AVVISO:[/b] Non rileviamo la telecamera, ma puoi giocare anche senza aggiungere una foto. Se la cosa non ti torna, prova ad accedere usando un altro browser.",
-        STYLE: "[b]AVVISO:[/b] Il tuo browser è obsoleto e avrà dei problemi a visualizzare il gioco.",
-        TOS: "Selezionando {submit}, accetti le [tos]Condizioni del servizio[/tos]"
+        CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
+        STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
+        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     Rse = {
         BRANCH: cse,
@@ -35495,94 +35493,93 @@ dalla lista dei giochi precedenti.`,
         WAITING: "Warte auf Raum"
     },
     yse = {
-        ACCEPT_ALL: "Okay!",
+        ACCEPT_ALL: "Intellexi!",
         CONSENT_MODAL: {
-            ARIA: "Cookie-Zustimmung"
+            ARIA: "Cookie consent form"
         },
-        DESCRIPTION: "Wir verwenden Cookies, um deine Spielerfahrung zu verbessern und unseren Web-Traffic zu analysieren. Mehr darüber kannst du in unserer [pp]Datenschutzrichtlinie[/pp] erfahren.",
-        REJECT_ALL: "Ablehnen"
+        DESCRIPTION: "Ad ludum melius experiendum et usum paginae nostrae spectandum utimur crustulis. Plura in [pp]lege de secreti fide[/pp] invenias.",
+        REJECT_ALL: "Recusare"
     },
     Ase = {
-        UNSUPPORTED_BROWSER: "Dieses Spiel wird von diesem Browser nicht unterstützt. Unter '?' und HILFE findest du eine vollständige Liste an kompatiblen Browsern.",
-        ROOM_IS_FULL: "Das Spiel ist voll",
-        ROOM_NOT_FOUND: "Raum wurde nicht gefunden.",
-        AUDIENCE_IS_FULL: "Das Publikum ist voll",
-        UNABLE_TO_CONNECT: "Es konnte keine Verbindung zum Server von Jackbox Games hergestellt werden. Dies wird häufig durch Adblocker oder Privacy Extensions verursacht.",
-        UNABLE_TO_PRELOAD: "Preload dieses Bundles ist nicht möglich",
-        KICKED: "Du kannst nicht beitreten, weil du von einem Moderator gekickt wurdest",
-        REQUIRES_TWITCH_LOGIN: "Für diesen Spiel ist Twitch erforderlich",
-        ROOM_IS_LOCKED: "Spiel verschlossen",
-        INCORRECT_PASSWORD: "Falsches Passwort",
-        GENERIC: "Fehler beim Betreten des Spiels",
-        FILTER_NAME: "Der Familientauglichkeits-Filter des Spiels ist aktiviert. Wähle einen anderen Namen."
+        UNSUPPORTED_BROWSER: "Hic ludus in hoc navigatro interretiali non sustinetur. Videre '?' aut 'AUXILIUM' indicem congruentium exploratorum ostendit.",
+        ROOM_IS_FULL: "Ludus plenus est",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur",
+        AUDIENCE_IS_FULL: "Auditorium completum est",
+        UNABLE_TO_CONNECT: "Ad server Jackbox ludorum conecti non potest. Hoc saepius propter extensiones quae advertisementum et usum dativum coercent fit.",
+        UNABLE_TO_PRELOAD: "Hoc fasciculus ludi praeparare nequit",
+        KICKED: "Concedere tibi non licet, quia a moderatore expulsus es.",
+        REQUIRES_TWITCH_LOGIN: "Ludus per Twitch accedere necessarium est",
+        ROOM_IS_LOCKED: "Ludus prohibitus est",
+        INCORRECT_PASSWORD: "Clavis falsa",
+        GENERIC: "In ludo coniungendo error factus est",
+        FILTER_NAME: "In hoc ludo verba obscena vetantur. Nomen aliud elige, rogamus."
     },
     Lse = {
-        NAME: "NAME",
-        NAME_PLACEHOLDER: "GIB DEINEN NAMEN EIN",
-        PASSWORD_PLACEHOLDER: "FÜNFSTELLIGES PASSWORT EINGEBEN",
-        PASSWORD_REQUIRED_TITLE: "Passwort benötigt",
-        PASSWORD_REQUIRED_BODY: "Bitte gib das Passwort ein oder setze dich ins Publikum",
-        PASSWORD_JOIN_AS_PLAYER: "Als Spieler beitreten",
-        PASSWORD_JOIN_AS_AUDIENCE: "Ins Publikum setzen",
-        ROOM_CODE: "RAUMCODE",
-        ROOM_CODE_PLACEHOLDER: "GIB DEN 4-STELLIGEN CODE EIN"
+        NAME: "NOMEN",
+        NAME_PLACEHOLDER: "SCRIBE NOMEN TUUM",
+        PASSWORD_PLACEHOLDER: "INGREDERE CLAVEM",
+        PASSWORD_REQUIRED_TITLE: "Clavis necessarua est",
+        PASSWORD_REQUIRED_BODY: "Aut tesseram ingredere aut ut spectator adesto",
+        PASSWORD_JOIN_AS_PLAYER: "Participare ut lusor",
+        PASSWORD_JOIN_AS_AUDIENCE: "Concurrere ad auditorium",
+        ROOM_CODE: "CUBICULUM CLAVIS",
+        ROOM_CODE_PLACEHOLDER: "INGREDERE CODICEM"
     },
-    Cse = "Link zur Homepage von Jackbox Games",
+    Cse = "Ad Jackbox Ludorum Pagina Prima",
     wse = {
-        APPEARANCE: "DARSTELLUNG",
-        DARK: "Dunkel",
-        HELP: "HILFE",
+        APPEARANCE: "FACIES",
+        DARK: "tenebrosus",
+        HELP: "AUXILIUM",
         TWITCH: "TWITCH",
-        LIGHT: "Hell",
-        LOGOUT: "ABMELDEN",
-        MERCH: "MERCH",
-        PAST_GAMES: "ANDERE SPIELE",
-        MAILING_LIST: "MAILINGLISTE",
+        LIGHT: "luminosus",
+        LOGOUT: "DISCERDERE",
+        MERCH: "MERCES",
+        PAST_GAMES: "LUDI FACTI",
+        MAILING_LIST: "INDEX INSCRIPTIONUM ELECTRONICARUM",
         MODERATOR: "MODERATOR"
     },
     Ose = {
         CALL_TO_ACTION: {
-            SHOP: "SPIEL UND SHOP ANSEHEN",
-            VIEW: "DIESES SPIEL ANSEHEN"
+            SHOP: "MERCARE ET LUDUM INSPICERE",
+            VIEW: "APERIRE HUNC LUDUM"
         },
-        NEW: "NEU",
-        PLAYED_ON: "GESPIELT AM",
+        NEW: "NOVUS",
+        PLAYED_ON: "LUSA SUNT DIE",
         REMOVE: {
-            CONFIRM: "Bist du sicher?",
-            DESCRIPTION: `Dies wird das Spiel dauerhaft aus der Liste
-deiner bisherigen Spiele entfernen.`,
-            MANAGE: "Spiel entfernen?",
-            TITLE: "Bist du sicher?"
+            CONFIRM: "Certusne es?",
+            DESCRIPTION: `Hoc ludum ex indice ludorum praeteritorum perpetuo auferet.`,
+            MANAGE: "Ludum amovere vis?",
+            TITLE: "Certusne Es?"
         }
     },
     Ise = {
-        EMPTY: "Noch keine bisherigen Spiele",
-        MANAGE: "VERWALTEN",
-        TITLE: "DEINE BISHERIGEN SPIELE"
+        EMPTY: "Nullae Ludi Adhuc",
+        MANAGE: "ADMINISTRARE",
+        TITLE: "LUDI TUI PRAETERITI"
     },
     Nse = {
-        TITLE: "AKTUELLE SPIELE",
+        TITLE: "LUDI RECENTES",
         VIEW_ALL: {
-            BUTTON: "ALLE ANSEHEN",
-            LINK: "ALLE BISHERIGEN SPIELE ANSEHEN"
+            BUTTON: "INSPICE OMNIA",
+            LINK: "INSPICE OMNIA LUDOS PRAETERITOS"
         }
     },
     Pse = {
-        GAME_FULL: "Spiel ist voll",
-        GAME_STARTED: "Spiel hat bereits begonnen",
-        ROOM_NOT_FOUND: "Raum wurde nicht gefunden."
+        GAME_FULL: "Ludus plenus est",
+        GAME_STARTED: "Ludus incepit",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur"
     },
     Use = {
-        GAME_FULL: "SPIEL IST VOLL",
-        GAME_STARTED: "SPIEL HAT BEREITS BEGONNEN",
-        JOIN_AUDIENCE: "INS PUBLIKUM SETZEN",
-        RECONNECT: "NEU VERBINDEN",
-        TWITCH_LOGIN: "MIT TWITCH ANMELDEN"
+        GAME_FULL: "LUDUS PLENUS EST",
+        GAME_STARTED: "LUDUS INCEPIT",
+        JOIN_AUDIENCE: "ADIUNGERE AUDITORIBUS",
+        RECONNECT: "RESTITUERE",
+        TWITCH_LOGIN: "ACCEDERE PER TWITCH"
     },
     Bse = {
-        CAMERA: "[b]ACHTUNG:[/b] Es wurde keine Kamera erkannt, aber du kannst das Spiel auch ohne Foto spielen. Falls eine Kamera vorhanden ist, probiere es mit einem anderen Browser.",
-        STYLE: "[b]ACHTUNG:[/b] Dein Browser scheint etwas veraltet zu sein. Es könnte Probleme bei der Anzeige dieses Spiels geben.",
-        TOS: "Wenn du auf {submit} klickst, erklärst du dich mit unseren [tos]Nutzungsbedingungen[/tos] einverstanden"
+        CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
+        STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
+        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     Dse = {
         BRANCH: Sse,
@@ -35606,94 +35603,93 @@ deiner bisherigen Spiele entfernen.`,
         WAITING: "Esperando la sala"
     },
     $se = {
-        ACCEPT_ALL: "¡Vale!",
+        ACCEPT_ALL: "Intellexi!",
         CONSENT_MODAL: {
-            ARIA: "Formulario de consentimiento para el uso de cookies"
+            ARIA: "Cookie consent form"
         },
-        DESCRIPTION: "Usamos las cookies para mejorar tu experiencia de juego y analizar el tráfico del sitio web. Puedes encontrar más información en nuestra [pp]política de privacidad[/pp].",
-        REJECT_ALL: "No aceptar"
+        DESCRIPTION: "Ad ludum melius experiendum et usum paginae nostrae spectandum utimur crustulis. Plura in [pp]lege de secreti fide[/pp] invenias.",
+        REJECT_ALL: "Recusare"
     },
     Kse = {
-        UNSUPPORTED_BROWSER: "El juego no es compatible con este navegador. En '?' y AYUDA puedes ver la lista de navegadores compatibles.",
-        ROOM_IS_FULL: "La sala está llena",
-        ROOM_NOT_FOUND: "No se encuentra la sala",
-        AUDIENCE_IS_FULL: "El público está completo",
-        UNABLE_TO_CONNECT: "No ha podido establecerse conexión con el servidor de Jackbox Games. Puede ser debido a los bloqueadores de anuncios o a las extensiones de privacidad.",
-        UNABLE_TO_PRELOAD: "No se ha podido precargar este lote de juegos",
-        KICKED: "No puedes unirte porque te ha expulsado un moderador",
-        REQUIRES_TWITCH_LOGIN: "Este juego requiere un inicio de sesión de Twitch",
-        ROOM_IS_LOCKED: "El juego está bloqueado",
-        INCORRECT_PASSWORD: "Contraseña incorrecta",
-        GENERIC: "Error al unirte al juego",
-        FILTER_NAME: "Esta partida tiene activados los filtros de lenguaje malsonante. Elige un nombre diferente."
+        UNSUPPORTED_BROWSER: "Hic ludus in hoc navigatro interretiali non sustinetur. Videre '?' aut 'AUXILIUM' indicem congruentium exploratorum ostendit.",
+        ROOM_IS_FULL: "Ludus plenus est",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur",
+        AUDIENCE_IS_FULL: "Auditorium completum est",
+        UNABLE_TO_CONNECT: "Ad server Jackbox ludorum conecti non potest. Hoc saepius propter extensiones quae advertisementum et usum dativum coercent fit.",
+        UNABLE_TO_PRELOAD: "Hoc fasciculus ludi praeparare nequit",
+        KICKED: "Concedere tibi non licet, quia a moderatore expulsus es.",
+        REQUIRES_TWITCH_LOGIN: "Ludus per Twitch accedere necessarium est",
+        ROOM_IS_LOCKED: "Ludus prohibitus est",
+        INCORRECT_PASSWORD: "Clavis falsa",
+        GENERIC: "In ludo coniungendo error factus est",
+        FILTER_NAME: "In hoc ludo verba obscena vetantur. Nomen aliud elige, rogamus."
     },
     kse = {
-        NAME: "NOMBRE",
-        NAME_PLACEHOLDER: "INDICA TU NOMBRE",
-        PASSWORD_PLACEHOLDER: "INTRODUCIR CONTRASEÑA DE 5 DÍGITOS",
-        PASSWORD_REQUIRED_TITLE: "Hace falta una contraseña",
-        PASSWORD_REQUIRED_BODY: "Introduce la contraseña o únete como público",
-        PASSWORD_JOIN_AS_PLAYER: "Unirse como jugador",
-        PASSWORD_JOIN_AS_AUDIENCE: "Unirse como público",
-        ROOM_CODE: "CÓDIGO DE LA SALA",
-        ROOM_CODE_PLACEHOLDER: "INTRODUCIR CÓDIGO DE 4 CARACTERES"
+        NAME: "NOMEN",
+        NAME_PLACEHOLDER: "SCRIBE NOMEN TUUM",
+        PASSWORD_PLACEHOLDER: "INGREDERE CLAVEM",
+        PASSWORD_REQUIRED_TITLE: "Clavis necessarua est",
+        PASSWORD_REQUIRED_BODY: "Aut tesseram ingredere aut ut spectator adesto",
+        PASSWORD_JOIN_AS_PLAYER: "Participare ut lusor",
+        PASSWORD_JOIN_AS_AUDIENCE: "Concurrere ad auditorium",
+        ROOM_CODE: "CUBICULUM CLAVIS",
+        ROOM_CODE_PLACEHOLDER: "INGREDERE CODICEM"
     },
-    Gse = "Enlace a la página inicial de Jackbox Games",
+    Gse = "Ad Jackbox Ludorum Pagina Prima",
     Vse = {
-        APPEARANCE: "APARIENCIA",
-        DARK: "oscura",
-        HELP: "AYUDA",
+        APPEARANCE: "FACIES",
+        DARK: "tenebrosus",
+        HELP: "AUXILIUM",
         TWITCH: "TWITCH",
-        LIGHT: "clara",
-        LOGOUT: "CERRAR SESIÓN",
-        MERCH: "MERCHANDISING",
-        PAST_GAMES: "PARTIDAS ANTERIORES",
-        MAILING_LIST: "LISTA DE CORREO",
-        MODERATOR: "MODERADOR"
+        LIGHT: "luminosus",
+        LOGOUT: "DISCERDERE",
+        MERCH: "MERCES",
+        PAST_GAMES: "LUDI FACTI",
+        MAILING_LIST: "INDEX INSCRIPTIONUM ELECTRONICARUM",
+        MODERATOR: "MODERATOR"
     },
     Fse = {
         CALL_TO_ACTION: {
-            SHOP: "VER JUEGO Y COMPRAR",
-            VIEW: "VER ESTE JUEGO"
+            SHOP: "MERCARE ET LUDUM INSPICERE",
+            VIEW: "APERIRE HUNC LUDUM"
         },
-        NEW: "NUEVO",
-        PLAYED_ON: "SE JUEGA EN",
+        NEW: "NOVUS",
+        PLAYED_ON: "LUSA SUNT DIE",
         REMOVE: {
-            CONFIRM: "¿Estás seguro?",
-            DESCRIPTION: `Esto eliminará de forma permanente esta partida
-de tu lista de partidas anteriores.`,
-            MANAGE: "¿Retirar partida?",
-            TITLE: "¿Estás seguro?"
+            CONFIRM: "Certusne es?",
+            DESCRIPTION: `Hoc ludum ex indice ludorum praeteritorum perpetuo auferet.`,
+            MANAGE: "Ludum amovere vis?",
+            TITLE: "Certusne Es?"
         }
     },
     Hse = {
-        EMPTY: "Todavía no hay partidas anteriores",
-        MANAGE: "ADMINISTRAR",
-        TITLE: "PARTIDAS ANTERIORES"
+        EMPTY: "Nullae Ludi Adhuc",
+        MANAGE: "ADMINISTRARE",
+        TITLE: "LUDI TUI PRAETERITI"
     },
     Wse = {
-        TITLE: "PARTIDAS RECIENTES",
+        TITLE: "LUDI RECENTES",
         VIEW_ALL: {
-            BUTTON: "VER TODO",
-            LINK: "VER TODAS LAS PARTIDAS ANTERIORES"
+            BUTTON: "INSPICE OMNIA",
+            LINK: "INSPICE OMNIA LUDOS PRAETERITOS"
         }
     },
     Xse = {
-        GAME_FULL: "La partida está completa",
-        GAME_STARTED: "La partida ha empezado",
-        ROOM_NOT_FOUND: "No se encuentra la sala"
+        GAME_FULL: "Ludus plenus est",
+        GAME_STARTED: "Ludus incepit",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur"
     },
     jse = {
-        GAME_FULL: "LA PARTIDA ESTÁ COMPLETA",
-        GAME_STARTED: "LA PARTIDA HA EMPEZADO",
-        JOIN_AUDIENCE: "UNIRSE COMO PÚBLICO",
-        RECONNECT: "RECONECTAR",
-        TWITCH_LOGIN: "INICIAR SESIÓN CON TWITCH"
+        GAME_FULL: "LUDUS PLENUS EST",
+        GAME_STARTED: "LUDUS INCEPIT",
+        JOIN_AUDIENCE: "ADIUNGERE AUDITORIBUS",
+        RECONNECT: "RESTITUERE",
+        TWITCH_LOGIN: "ACCEDERE PER TWITCH"
     },
     zse = {
-        CAMERA: "[b]AVISO:[/b] No se detecta ninguna cámara, pero puedes jugar sin foto. Si crees que se trata de un error, cambia de navegador.",
-        STYLE: "[b]AVISO:[/b] Tu navegador está un poco desactualizado, así que es posible que el juego no se vea del todo bien.",
-        TOS: "Al hacer clic en {submit}, aceptas las [tos]Condiciones del servicio[/tos]"
+        CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
+        STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
+        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     qse = {
         BRANCH: Mse,
@@ -35717,94 +35713,93 @@ de tu lista de partidas anteriores.`,
         WAITING: "Esperando una sala"
     },
     Jse = {
-        ACCEPT_ALL: "¡Listo!",
+        ACCEPT_ALL: "Intellexi!",
         CONSENT_MODAL: {
-            ARIA: "Formulario de consentimiento de cookies"
+            ARIA: "Cookie consent form"
         },
-        DESCRIPTION: "Usamos cookies para mejorar tu experiencia de juego y analizar el tráfico web. Para obtener más información, consulta nuestro [pp]Aviso de Privacidad[/pp].",
-        REJECT_ALL: "No participar"
+        DESCRIPTION: "Ad ludum melius experiendum et usum paginae nostrae spectandum utimur crustulis. Plura in [pp]lege de secreti fide[/pp] invenias.",
+        REJECT_ALL: "Recusare"
     },
     Zse = {
-        UNSUPPORTED_BROWSER: "El juego no es compatible con este navegador. En '?' o AYUDA puedes ver la lista de navegadores compatibles.",
-        ROOM_IS_FULL: "La partida está completa",
-        ROOM_NOT_FOUND: "No se encuentra la sala",
-        AUDIENCE_IS_FULL: "El público está completo",
-        UNABLE_TO_CONNECT: "No podemos conectarte a los servidores de Jackbox Games. Puede ser debido a los bloqueadores de anuncios y las extensiones de privacidad.",
-        UNABLE_TO_PRELOAD: "No se puede precargar este paquete de juegos",
-        KICKED: "No puedes unirte porque un moderador te expulsó",
-        REQUIRES_TWITCH_LOGIN: "Este juego requiere inicio de sesión de Twitch",
-        ROOM_IS_LOCKED: "La partida está bloqueada",
-        INCORRECT_PASSWORD: "Contraseña incorrecta",
-        GENERIC: "Error al unirte a la partida",
-        FILTER_NAME: "Esta partida tiene activados los filtros de lenguaje soez. Elige un nombre diferente."
+        UNSUPPORTED_BROWSER: "Hic ludus in hoc navigatro interretiali non sustinetur. Videre '?' aut 'AUXILIUM' indicem congruentium exploratorum ostendit.",
+        ROOM_IS_FULL: "Ludus plenus est",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur",
+        AUDIENCE_IS_FULL: "Auditorium completum est",
+        UNABLE_TO_CONNECT: "Ad server Jackbox ludorum conecti non potest. Hoc saepius propter extensiones quae advertisementum et usum dativum coercent fit.",
+        UNABLE_TO_PRELOAD: "Hoc fasciculus ludi praeparare nequit",
+        KICKED: "Concedere tibi non licet, quia a moderatore expulsus es.",
+        REQUIRES_TWITCH_LOGIN: "Ludus per Twitch accedere necessarium est",
+        ROOM_IS_LOCKED: "Ludus prohibitus est",
+        INCORRECT_PASSWORD: "Clavis falsa",
+        GENERIC: "In ludo coniungendo error factus est",
+        FILTER_NAME: "In hoc ludo verba obscena vetantur. Nomen aliud elige, rogamus."
     },
     Qse = {
-        NAME: "NOMBRE",
-        NAME_PLACEHOLDER: "ESCRIBE TU NOMBRE",
-        PASSWORD_PLACEHOLDER: "INGRESA CONTRASEÑA DE 5 DÍGITOS",
-        PASSWORD_REQUIRED_TITLE: "Requiere contraseña",
-        PASSWORD_REQUIRED_BODY: "Ingresa la contraseña o únete como parte del público",
-        PASSWORD_JOIN_AS_PLAYER: "Unirse como jugador",
-        PASSWORD_JOIN_AS_AUDIENCE: "Unirse al público",
-        ROOM_CODE: "CÓDIGO DE LA SALA",
-        ROOM_CODE_PLACEHOLDER: "INGRESA EL CÓDIGO DE 4 CARACTERES"
+        NAME: "NOMEN",
+        NAME_PLACEHOLDER: "SCRIBE NOMEN TUUM",
+        PASSWORD_PLACEHOLDER: "INGREDERE CLAVEM",
+        PASSWORD_REQUIRED_TITLE: "Clavis necessarua est",
+        PASSWORD_REQUIRED_BODY: "Aut tesseram ingredere aut ut spectator adesto",
+        PASSWORD_JOIN_AS_PLAYER: "Participare ut lusor",
+        PASSWORD_JOIN_AS_AUDIENCE: "Concurrere ad auditorium",
+        ROOM_CODE: "CUBICULUM CLAVIS",
+        ROOM_CODE_PLACEHOLDER: "INGREDERE CODICEM"
     },
-    eae = "Enlace a la página de inicio de Jackbox Games",
+    eae = "Ad Jackbox Ludorum Pagina Prima",
     tae = {
-        APPEARANCE: "APARIENCIA",
-        DARK: "oscura",
-        HELP: "AYUDA",
+        APPEARANCE: "FACIES",
+        DARK: "tenebrosus",
+        HELP: "AUXILIUM",
         TWITCH: "TWITCH",
-        LIGHT: "clara",
-        LOGOUT: "CERRAR SESIÓN",
-        MERCH: "PRODUCTOS",
-        PAST_GAMES: "PARTIDAS ANTERIORES",
-        MAILING_LIST: "LISTA DE CORREO",
-        MODERATOR: "MODERADOR"
+        LIGHT: "luminosus",
+        LOGOUT: "DISCERDERE",
+        MERCH: "MERCES",
+        PAST_GAMES: "LUDI FACTI",
+        MAILING_LIST: "INDEX INSCRIPTIONUM ELECTRONICARUM",
+        MODERATOR: "MODERATOR"
     },
     rae = {
         CALL_TO_ACTION: {
-            SHOP: "VER JUEGO Y TIENDA",
-            VIEW: "VER ESTE JUEGO"
+            SHOP: "MERCARE ET LUDUM INSPICERE",
+            VIEW: "APERIRE HUNC LUDUM"
         },
-        NEW: "NUEVO",
-        PLAYED_ON: "SE JUGÓ EN",
+        NEW: "NOVUS",
+        PLAYED_ON: "LUSA SUNT DIE",
         REMOVE: {
-            CONFIRM: "¿De verdad?",
-            DESCRIPTION: `Eliminarás permanentemente este juego
-de tu lista de partidas anteriores.`,
-            MANAGE: "¿Eliminar juego?",
-            TITLE: "¿De verdad?"
+            CONFIRM: "Certusne es?",
+            DESCRIPTION: `Hoc ludum ex indice ludorum praeteritorum perpetuo auferet.`,
+            MANAGE: "Ludum amovere vis?",
+            TITLE: "Certusne Es?"
         }
     },
     nae = {
-        EMPTY: "Aún no hay partidas anteriores",
-        MANAGE: "ADMINISTRAR",
-        TITLE: "TUS PARTIDAS ANTERIORES"
+        EMPTY: "Nullae Ludi Adhuc",
+        MANAGE: "ADMINISTRARE",
+        TITLE: "LUDI TUI PRAETERITI"
     },
     iae = {
-        TITLE: "PARTIDAS RECIENTES",
+        TITLE: "LUDI RECENTES",
         VIEW_ALL: {
-            BUTTON: "VER TODOS",
-            LINK: "VER TODAS LAS PARTIDAS ANTERIORES"
+            BUTTON: "INSPICE OMNIA",
+            LINK: "INSPICE OMNIA LUDOS PRAETERITOS"
         }
     },
     sae = {
-        GAME_FULL: "La partida está completa",
-        GAME_STARTED: "La partida ha empezado",
-        ROOM_NOT_FOUND: "No se encuentra la sala"
+        GAME_FULL: "Ludus plenus est",
+        GAME_STARTED: "Ludus incepit",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur"
     },
     aae = {
-        GAME_FULL: "LA PARTIDA ESTÁ COMPLETA",
-        GAME_STARTED: "LA PARTIDA HA EMPEZADO",
-        JOIN_AUDIENCE: "UNIRSE AL PÚBLICO",
-        RECONNECT: "RECONECTAR",
-        TWITCH_LOGIN: "INICIAR SESIÓN CON TWITCH"
+        GAME_FULL: "LUDUS PLENUS EST",
+        GAME_STARTED: "LUDUS INCEPIT",
+        JOIN_AUDIENCE: "ADIUNGERE AUDITORIBUS",
+        RECONNECT: "RESTITUERE",
+        TWITCH_LOGIN: "ACCEDERE PER TWITCH"
     },
     oae = {
-        CAMERA: "[b]AVISO:[/b] No se detecta ninguna cámara, pero igual puedes jugar sin una foto. Si crees que se trata de un error, cambia de navegador.",
-        STYLE: "[b]AVISO:[/b] Tu navegador está un poco desactualizado, así que es posible que el juego no se vea del todo bien.",
-        TOS: "Al hacer clic en {submit}, aceptas las [tos]Condiciones del servicio[/tos]"
+        CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
+        STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
+        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     lae = {
         BRANCH: Yse,
@@ -35828,94 +35823,93 @@ de tu lista de partidas anteriores.`,
         WAITING: "Aguardando sala"
     },
     fae = {
-        ACCEPT_ALL: "Entendi!",
+        ACCEPT_ALL: "Intellexi!",
         CONSENT_MODAL: {
-            ARIA: "Formulário de consentimento ao uso de cookies"
+            ARIA: "Cookie consent form"
         },
-        DESCRIPTION: "Nós usamos cookies para aprimorar sua experiência de jogo e analisar o tráfego do site. Saiba mais na nossa [pp]Política de Privacidade[/pp].",
-        REJECT_ALL: "Recusar"
+        DESCRIPTION: "Ad ludum melius experiendum et usum paginae nostrae spectandum utimur crustulis. Plura in [pp]lege de secreti fide[/pp] invenias.",
+        REJECT_ALL: "Recusare"
     },
     cae = {
-        UNSUPPORTED_BROWSER: "Este jogo não é compatível com este navegador. Clique em “?” ou “AJUDA” para ver uma lista de navegadores compatíveis.",
-        ROOM_IS_FULL: "O jogo está lotado",
-        ROOM_NOT_FOUND: "Sala não encontrada",
-        AUDIENCE_IS_FULL: "A plateia atingiu lotação máxima",
-        UNABLE_TO_CONNECT: "Não foi possível se conectar ao servidor da Jackbox Games. Geralmente isso se deve a bloqueadores de anúncios ou extensões de privacidade.",
-        UNABLE_TO_PRELOAD: "Não foi possível pré-carregar este pacote de jogo",
-        KICKED: "Não é possível entrar, pois um moderador expulsou você",
-        REQUIRES_TWITCH_LOGIN: "O jogo requer login na Twitch",
-        ROOM_IS_LOCKED: "O jogo é privado",
-        INCORRECT_PASSWORD: "Senha incorreta",
-        GENERIC: "Erro ao entrar neste jogo",
-        FILTER_NAME: "Filtros de linguagem imprópria estão ativos neste jogo. Escolha outro nome."
+        UNSUPPORTED_BROWSER: "Hic ludus in hoc navigatro interretiali non sustinetur. Videre '?' aut 'AUXILIUM' indicem congruentium exploratorum ostendit.",
+        ROOM_IS_FULL: "Ludus plenus est",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur",
+        AUDIENCE_IS_FULL: "Auditorium completum est",
+        UNABLE_TO_CONNECT: "Ad server Jackbox ludorum conecti non potest. Hoc saepius propter extensiones quae advertisementum et usum dativum coercent fit.",
+        UNABLE_TO_PRELOAD: "Hoc fasciculus ludi praeparare nequit",
+        KICKED: "Concedere tibi non licet, quia a moderatore expulsus es.",
+        REQUIRES_TWITCH_LOGIN: "Ludus per Twitch accedere necessarium est",
+        ROOM_IS_LOCKED: "Ludus prohibitus est",
+        INCORRECT_PASSWORD: "Clavis falsa",
+        GENERIC: "In ludo coniungendo error factus est",
+        FILTER_NAME: "In hoc ludo verba obscena vetantur. Nomen aliud elige, rogamus."
     },
     pae = {
-        NAME: "NOME",
-        NAME_PLACEHOLDER: "INSIRA SEU NOME",
-        PASSWORD_PLACEHOLDER: "INSIRA UMA SENHA DE 5 DÍGITOS",
-        PASSWORD_REQUIRED_TITLE: "Senha obrigatória",
-        PASSWORD_REQUIRED_BODY: "Insira a senha ou entre como espectador",
-        PASSWORD_JOIN_AS_PLAYER: "Entrar como jogador",
-        PASSWORD_JOIN_AS_AUDIENCE: "Entrar como espectador",
-        ROOM_CODE: "CÓDIGO DA SALA",
-        ROOM_CODE_PLACEHOLDER: "INSIRA O CÓDIGO DE 4 LETRAS"
+        NAME: "NOMEN",
+        NAME_PLACEHOLDER: "SCRIBE NOMEN TUUM",
+        PASSWORD_PLACEHOLDER: "INGREDERE CLAVEM",
+        PASSWORD_REQUIRED_TITLE: "Clavis necessarua est",
+        PASSWORD_REQUIRED_BODY: "Aut tesseram ingredere aut ut spectator adesto",
+        PASSWORD_JOIN_AS_PLAYER: "Participare ut lusor",
+        PASSWORD_JOIN_AS_AUDIENCE: "Concurrere ad auditorium",
+        ROOM_CODE: "CUBICULUM CLAVIS",
+        ROOM_CODE_PLACEHOLDER: "INGREDERE CODICEM"
     },
-    dae = "Link para a página da Jackbox Games",
+    dae = "Ad Jackbox Ludorum Pagina Prima",
     hae = {
-        APPEARANCE: "TEMA",
-        DARK: "escuro",
-        HELP: "AJUDA",
+        APPEARANCE: "FACIES",
+        DARK: "tenebrosus",
+        HELP: "AUXILIUM",
         TWITCH: "TWITCH",
-        LIGHT: "claro",
-        LOGOUT: "DESCONECTAR",
-        MERCH: "PRODUTOS",
-        PAST_GAMES: "JOGOS ANTERIORES",
-        MAILING_LIST: "LISTA DE E-MAILS",
-        MODERATOR: "MODERADOR"
+        LIGHT: "luminosus",
+        LOGOUT: "DISCERDERE",
+        MERCH: "MERCES",
+        PAST_GAMES: "LUDI FACTI",
+        MAILING_LIST: "INDEX INSCRIPTIONUM ELECTRONICARUM",
+        MODERATOR: "MODERATOR"
     },
     Eae = {
         CALL_TO_ACTION: {
-            SHOP: "VER JOGO E EXPLORAR",
-            VIEW: "VER ESTE JOGO"
+            SHOP: "MERCARE ET LUDUM INSPICERE",
+            VIEW: "APERIRE HUNC LUDUM"
         },
-        NEW: "NOVO",
-        PLAYED_ON: "JOGADO EM",
+        NEW: "NOVUS",
+        PLAYED_ON: "LUSA SUNT DIE",
         REMOVE: {
-            CONFIRM: "Tem certeza?",
-            DESCRIPTION: `Este jogo será removido permanentemente
-de sua lista de jogos anteriores.`,
-            MANAGE: "Remover jogo?",
-            TITLE: "Tem certeza?"
+            CONFIRM: "Certusne es?",
+            DESCRIPTION: `Hoc ludum ex indice ludorum praeteritorum perpetuo auferet.`,
+            MANAGE: "Ludum amovere vis?",
+            TITLE: "Certusne Es?"
         }
     },
     mae = {
-        EMPTY: "Nenhum jogo anterior",
-        MANAGE: "GERENCIAR",
-        TITLE: "SEUS JOGOS ANTERIORES"
+        EMPTY: "Nullae Ludi Adhuc",
+        MANAGE: "ADMINISTRARE",
+        TITLE: "LUDI TUI PRAETERITI"
     },
     gae = {
-        TITLE: "JOGOS RECENTES",
+        TITLE: "LUDI RECENTES",
         VIEW_ALL: {
-            BUTTON: "VER TUDO",
-            LINK: "VER TODOS OS JOGOS ANTERIORES"
+            BUTTON: "INSPICE OMNIA",
+            LINK: "INSPICE OMNIA LUDOS PRAETERITOS"
         }
     },
     _ae = {
-        GAME_FULL: "O jogo está lotado",
-        GAME_STARTED: "O jogo começou",
-        ROOM_NOT_FOUND: "Sala não encontrada"
+        GAME_FULL: "Ludus plenus est",
+        GAME_STARTED: "Ludus incepit",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur"
     },
     Tae = {
-        GAME_FULL: "O JOGO ESTÁ LOTADO",
-        GAME_STARTED: "O JOGO COMEÇOU",
-        JOIN_AUDIENCE: "ENTRAR COMO ESPECTADOR",
-        RECONNECT: "RECONECTAR",
-        TWITCH_LOGIN: "FAZER LOGIN COM A TWITCH"
+        GAME_FULL: "LUDUS PLENUS EST",
+        GAME_STARTED: "LUDUS INCEPIT",
+        JOIN_AUDIENCE: "ADIUNGERE AUDITORIBUS",
+        RECONNECT: "RESTITUERE",
+        TWITCH_LOGIN: "ACCEDERE PER TWITCH"
     },
     vae = {
-        CAMERA: "[b]AVISO:[/b] não detectamos nenhuma câmera, mas você ainda pode jogar sem foto. Se preferir, tente entrar com outro navegador.",
-        STYLE: "[b]AVISO:[/b] seu navegador está desatualizado e terá problemas para exibir o jogo.",
-        TOS: "Clicando em {submit}, você concordará com os nossos [tos]Termos de Serviço[/tos]"
+        CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
+        STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
+        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     xae = {
         BRANCH: uae,
