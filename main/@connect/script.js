@@ -35249,7 +35249,7 @@ const Kie = {
     Yie = {
         CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
         STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
-        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
+        TOS: "Si {submit}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     Jie = {
         BRANCH: Kie,
@@ -35359,7 +35359,7 @@ const Kie = {
     use = {
         CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
         STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
-        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
+        TOS: "Si {submit}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     fse = {
         BRANCH: Zie,
@@ -35469,7 +35469,7 @@ const Kie = {
     bse = {
         CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
         STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
-        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
+        TOS: "Si {submit}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     Rse = {
         BRANCH: cse,
@@ -35579,7 +35579,7 @@ const Kie = {
     Bse = {
         CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
         STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
-        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
+        TOS: "Si {submit}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     Dse = {
         BRANCH: Sse,
@@ -35689,7 +35689,7 @@ const Kie = {
     zse = {
         CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
         STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
-        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
+        TOS: "Si {submit}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     qse = {
         BRANCH: Mse,
@@ -35799,7 +35799,7 @@ const Kie = {
     oae = {
         CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
         STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
-        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
+        TOS: "Si {submit}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     lae = {
         BRANCH: Yse,
@@ -35909,7 +35909,7 @@ const Kie = {
     vae = {
         CAMERA: "[b]MONE TE!:[/b] Non cameram sentimus, sed sine imagine ludere potes. Si haec visa fuerint falsa, tenta cum alio navigatro accedere.",
         STYLE: "[b]MONE TE![/b] Navigatrum tuum paulum antiquum videtur et aliquas difficultates habebit in ostendendo ludo.",
-        TOS: "Si {submittis}, consensum prabes [tos]condicionibus nostris[/tos]."
+        TOS: "Si {submit}, consensum prabes [tos]condicionibus nostris[/tos]."
     },
     xae = {
         BRANCH: uae,
