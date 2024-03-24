@@ -23872,143 +23872,143 @@ class EW {
     }
 }
 const mW = {
-        BACK: "Back",
-        CANCEL: "Cancel",
-        CLOSE: "Close",
-        CONFIRM: "Confirm",
-        CREATE: "Create",
-        DELETE: "Delete",
-        DONE: "Done",
-        EDIT: "Edit",
-        OK: "OK",
-        NEXT: "Next",
-        NO: "No",
-        PLAY: "Play",
-        PUBLISH: "Publish",
-        REMOVE: "Remove",
-        RESET: "Reset",
-        SUBMIT: "Submit",
-        TRY_AGAIN: "Try Again",
-        UNDO: "Undo",
-        YES: "Yes"
+        BACK: "Retro",
+        CANCEL: "Recipere",
+        CLOSE: "Claudere",
+        CONFIRM: "Confirmare",
+        CREATE: "Auctorizare",
+        DELETE: "Exstinguere",
+        DONE: "Defunge",
+        EDIT: "Tractare",
+        OK: "Bene habet!",
+        NEXT: "Amplius",
+        NO: "Non",
+        PLAY: "Ludere",
+        PUBLISH: "Divulgare",
+        REMOVE: "Removere",
+        RESET: "Exstinguere",
+        SUBMIT: "Munerare",
+        TRY_AGAIN: "Iterum conare",
+        UNDO: "Adnullare",
+        YES: "Ita"
     },
     gW = {
         UGC: {
-            VISIBILITY_CONTROLLER_OFF: "prompts hidden on players’ devices",
-            VISIBILITY_CONTROLLER_ON: "prompts shown on players’ devices",
-            VISIBILITY_SCREEN_OFF: "prompts hidden on game screen",
-            VISIBILITY_SCREEN_ON: "prompts shown on game screen"
+            VISIBILITY_CONTROLLER_OFF: "monita in ludorum instrumentorum occulta",
+            VISIBILITY_CONTROLLER_ON: "monita in ludorum instrumentorum ostensa",
+            VISIBILITY_SCREEN_OFF: "monita in velo ludorum abscondita",
+            VISIBILITY_SCREEN_ON: "monita in velo ludorum visa"
         }
     },
     _W = {
-        DISCONNECTED: "You have been disconnected.",
-        DRAWING_NOTHING: "You have to draw something!",
-        PLAYER_KICKED: "You have been kicked from the game by a moderator.",
-        ROOM_DESTROYED: "Thanks for playing!",
-        ROOM_DISCONNECTED: "Disconnected",
-        TEXT_NAUGHTY: "I’m afraid you can’t write that. Please be respectful of other players.",
-        TEXT_NOTHING: "You can’t enter nothing!",
+        DISCONNECTED: "Discessisti.",
+        DRAWING_NOTHING: "Aliquid tibi pingendum est!",
+        PLAYER_KICKED: "A moderatore e ludo expulsus es.",
+        ROOM_DESTROYED: "Bene lusisti!",
+        ROOM_DISCONNECTED: "Discessisti",
+        TEXT_NAUGHTY: "Vereor ne id scribere tibi liceat. Te rogo, ut erga alios lusores reverentiam serves.",
+        TEXT_NOTHING: "Non potes nihil inscribere!",
         TITLE: "Error"
     },
     TW = "LOADING",
     vW = {
-        JOINED_COUNT: "{count} of {maxPlayers} players joined",
-        PLAYERS_NEEDED: "1 player needed to start | {count} players needed to start",
-        WAITING_FOR_VIP: "Waiting for {name} to start the game",
-        WAITING_FOR_GAMEPAD: "Waiting for the game to start",
-        WAITING_FOR_NEW_GAME: "Waiting for a new game to start",
-        GAME_STARTING: "Game is starting",
-        BUTTON_START: "Press to Start",
-        BUTTON_CANCEL: "Press to Cancel"
+        JOINED_COUNT: "De {maxPlayers} hominibus, {count} se adjunxerunt",
+        PLAYERS_NEEDED: "Unus ludus desideratur ut incipiat | {count} ludiores ad ludum initiandum opus sunt",
+        WAITING_FOR_VIP: "Exspecto {name} ut ludum incipiat",
+        WAITING_FOR_GAMEPAD: "Ludos incipiendos expecto",
+        WAITING_FOR_NEW_GAME: "Exspecto ludum novum ut incipiat",
+        GAME_STARTING: "Ludus incipit",
+        BUTTON_START: "Preme incipere",
+        BUTTON_CANCEL: "Preme ad rescindendum"
     },
     xW = {
-        GALLERY_LINK: "Visit the Gallery",
-        NEW_GAME_STARTED: "A new game has started",
-        PLAY_AGAIN: "Play again?",
-        THANKS_FOR_PLAYING: "Thanks for playing!",
-        BUTTON_GO_TO_GAME: "Go to game",
-        BUTTON_GO_TO_JACKBOX: "Back to jackbox.tv",
-        BUTTON_SAME_PLAYERS: "Same players",
-        BUTTON_NEW_PLAYERS: "New players"
+        GALLERY_LINK: "Vis pinacothecam",
+        NEW_GAME_STARTED: "Ludus novus inceperunt",
+        PLAY_AGAIN: "Iterum ludere?",
+        THANKS_FOR_PLAYING: "Bene ludistis!",
+        BUTTON_GO_TO_GAME: "Ite ad ludum",
+        BUTTON_GO_TO_JACKBOX: "Redire ad lat.jackbox.de",
+        BUTTON_SAME_PLAYERS: "Eidem lusores",
+        BUTTON_NEW_PLAYERS: "Novi lusores"
     },
     bW = {
-        AND: "AND",
-        OR: "OR"
+        AND: "ET",
+        OR: "AUT"
     },
     RW = {
-        BUTTON_SKIP: "Skip",
-        BUTTON_NEXT: "Next",
-        BUTTON_DONE: "Let’s Go!"
+        BUTTON_SKIP: "Praeterire",
+        BUTTON_NEXT: "Deinde",
+        BUTTON_DONE: "Eamus!"
     },
     SW = {
-        NAME: "AUDIENCE"
+        NAME: "SPECTATORES"
     },
     yW = {
         CART: {
-            CHECK_OUT: "Check out",
-            EMPTY: "Your cart is empty",
-            TITLE: "Shopping Cart",
-            TOTAL: "Total"
+            CHECK_OUT: "Persolvere pretium et abire",
+            EMPTY: "Currus tuus vacuus est",
+            TITLE: "Plaustrum mercatoris",
+            TOTAL: "totalis"
         }
     },
     AW = {
-        EPISODE_REPORT: "Report Episode",
-        EPISODE_UNLOAD: "Unload Episode",
-        EPISODE_VIEW_AUTHOR: "View Author",
-        EPISODES_LOAD: "Load an episode by id:",
-        EPISODES_MENU: "Episodes Menu",
-        EPISODES_SELECT: "Or select an epsiode:",
-        EPISODES_WARNING: "Warning: user generated content is not rated",
+        EPISODE_REPORT: "Nuntiare Episodium",
+        EPISODE_UNLOAD: "Edere Episodium",
+        EPISODE_VIEW_AUTHOR: "Videre Auctor",
+        EPISODES_LOAD: "Episodium per indicem:",
+        EPISODES_MENU: "Index Episodiorum",
+        EPISODES_SELECT: "Aut eligere episodium:",
+        EPISODES_WARNING: "Monemus: A usoribus creatum contentum non est astimatum",
         INSTRUCTION: {
-            CREATE_TITLE: "first things first, enter a name for the episode that will contain all your prompts and hit create.",
-            LOAD: "create or load?",
-            PUBLISH: "publish your episode",
-            TITLE: "name your episode",
-            TOGGLE_VISIBILITY: "tap to show/hide prompts",
-            WRITE: "write your prompts"
+            CREATE_TITLE: "primum autem nomen seriei compone in qua omnes interrogationes tuae continebuntur, deinde crea.",
+            LOAD: "creare an imponere?",
+            PUBLISH: "edere tuum episodium",
+            TITLE: "dare nomen episodio tuum",
+            TOGGLE_VISIBILITY: "tange monstrare/celare incitationes",
+            WRITE: "scibere argumenta tua"
         },
         WARNING: {
-            DELETE: "Are you sure you want to delete this episode?",
-            TOS: "By sharing content, you agree to our [tos]Terms of Service[/tos]",
-            TOS_AGREE: "agree and share"
+            DELETE: "Num certus es te velle hanc fabulam delere?",
+            TOS: "Contenta communicando, [tos]Conditiones Utendarum[/tos] nostras acceptas",
+            TOS_AGREE: "assentire et communicare"
         },
-        BACK_TO_EPISODES: "back to episodes",
-        BACK_TO_MENU: "back to menu",
-        CREATE_NEW_EPISODE: "create a new episode",
-        PREVIOUS_EPISODES: "previous episodes",
-        PROMPT_ADD: "add prompt",
-        PROMPT_PLACEHOLDER: "enter a prompt",
-        PROMPTS_COUNT_HIDDEN: "({count} hidden)",
-        TITLE_PLACEHOLDER: "enter a title"
+        BACK_TO_EPISODES: "redire ad narrationes",
+        BACK_TO_MENU: "redire ad indicem",
+        CREATE_NEW_EPISODE: "creare novum episodium",
+        PREVIOUS_EPISODES: "episodia superiora",
+        PROMPT_ADD: "addere argumentum",
+        PROMPT_PLACEHOLDER: "imperare argumentum",
+        PROMPTS_COUNT_HIDDEN: "({count} occultae)",
+        TITLE_PLACEHOLDER: "inscribe titulum"
     },
     LW = {
         BROADCASTER: {
-            SUBTEXT: "You have successfully connected your account to the Jackbox Audience Kit Twitch Extension.",
-            WARNING: "THIS ROOM DOESN'T HAVE THE AUDIENCE SETTING ENABLED"
+            SUBTEXT: "Vos rationem vestram ad Completum Audientiae feliciter connexistis.",
+            WARNING: "IN HOC CUBICULO AUDITORUM MODUS NON EST ACTUS."
         },
         RECONNECTED: {
-            TEXT: "RECONNECTED",
-            SUBTEXT: "Have fun!"
+            TEXT: "RECONCILIATUS",
+            SUBTEXT: "Bene tibi tempus sit!"
         },
         RECONNECTING: {
             CONTROLLER: {
-                TEXT: "CONNECTION INTERRUPTED",
-                SUBTEXT: "Attempting to reconnect ({attempt} of 5)"
+                TEXT: "CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Conari reconectere ({attempt} de V)"
             },
             GAME: {
-                TEXT: "GAME CONNECTION INTERRUPTED",
-                SUBTEXT: "Please wait while we attempt to reconnect"
+                TEXT: "LUDUS CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Paulisper mane, dum conexionem reficere conamur"
             }
         },
         PAUSED: {
-            TEXT: "THE GAME IS PAUSED",
-            SUBTEXT: "Anything you submit will still be sent to the game."
+            TEXT: "LUDUS INTERRUPTUS EST",
+            SUBTEXT: "Quodcunque submittis, adhuc ad ludum mittetur."
         }
     },
     CW = {
-        SHARE: "Share",
-        COPY_TO_CLIPBOARD: "Copy to clipboard",
-        COPIED: "Copied"
+        SHARE: "Communicare",
+        COPY_TO_CLIPBOARD: "Descriptum ad servandum",
+        COPIED: "Similatur"
     },
     wW = {
         ACTION: mW,
@@ -24026,143 +24026,143 @@ const mW = {
         SHARE: CW
     },
     OW = {
-        BACK: "Retour",
-        CANCEL: "Annuler",
-        CLOSE: "Fermer",
-        CONFIRM: "Confirmer",
-        CREATE: "Créer",
-        DELETE: "Supprimer",
-        DONE: "Terminé",
-        EDIT: "Modifier",
-        OK: "OK",
-        NEXT: "Suivant",
+        BACK: "Retro",
+        CANCEL: "Recipere",
+        CLOSE: "Claudere",
+        CONFIRM: "Confirmare",
+        CREATE: "Auctorizare",
+        DELETE: "Exstinguere",
+        DONE: "Defunge",
+        EDIT: "Tractare",
+        OK: "Bene habet!",
+        NEXT: "Amplius",
         NO: "Non",
-        PLAY: "Jouer",
-        PUBLISH: "Publier",
-        REMOVE: "Supprimer",
-        RESET: "Réinitialiser",
-        SUBMIT: "Envoyer",
-        TRY_AGAIN: "Réessayer",
-        UNDO: "Annuler",
-        YES: "Oui"
+        PLAY: "Ludere",
+        PUBLISH: "Divulgare",
+        REMOVE: "Removere",
+        RESET: "Exstinguere",
+        SUBMIT: "Munerare",
+        TRY_AGAIN: "Iterum conare",
+        UNDO: "Adnullare",
+        YES: "Ita"
     },
     IW = {
         UGC: {
-            VISIBILITY_CONTROLLER_OFF: "sujets non affichés sur les appareils des joueurs",
-            VISIBILITY_CONTROLLER_ON: "sujets affichés sur les appareils des joueurs",
-            VISIBILITY_SCREEN_OFF: "sujets non affichés sur l'écran de jeu",
-            VISIBILITY_SCREEN_ON: "sujets affichés sur l'écran de jeu"
+            VISIBILITY_CONTROLLER_OFF: "monita in ludorum instrumentorum occulta",
+            VISIBILITY_CONTROLLER_ON: "monita in ludorum instrumentorum ostensa",
+            VISIBILITY_SCREEN_OFF: "monita in velo ludorum abscondita",
+            VISIBILITY_SCREEN_ON: "monita in velo ludorum visa"
         }
     },
     NW = {
-        DISCONNECTED: "Vous avez été déconnecté(e).",
-        DRAWING_NOTHING: "Vous devez dessiner quelque chose !",
-        PLAYER_KICKED: "Vous avez été éjecté(e) de la partie par un modérateur.",
-        ROOM_DESTROYED: "Merci d'avoir joué !",
-        ROOM_DISCONNECTED: "Déconnexion",
-        TEXT_NAUGHTY: "Je crains que vous ne puissiez pas écrire ça. Respectez les autres joueurs.",
-        TEXT_NOTHING: "Vous ne pouvez pas ne rien entrer",
-        TITLE: "Erreur"
+        DISCONNECTED: "Discessisti.",
+        DRAWING_NOTHING: "Aliquid tibi pingendum est!",
+        PLAYER_KICKED: "A moderatore e ludo expulsus es.",
+        ROOM_DESTROYED: "Bene lusisti!",
+        ROOM_DISCONNECTED: "Discessisti",
+        TEXT_NAUGHTY: "Vereor ne id scribere tibi liceat. Te rogo, ut erga alios lusores reverentiam serves.",
+        TEXT_NOTHING: "Non potes nihil inscribere!",
+        TITLE: "Error"
     },
-    PW = "CHARGEMENT",
+    PW = "LOADING",
     UW = {
-        JOINED_COUNT: "{count} joueurs sur {maxPlayers} ont rejoint la partie",
-        PLAYERS_NEEDED: "1 joueur nécessaire pour commencer | {count} joueurs nécessaires pour commencer",
-        WAITING_FOR_VIP: "En attente de {name} pour commencer la partie",
-        WAITING_FOR_GAMEPAD: "En attente du début de la partie",
-        WAITING_FOR_NEW_GAME: "En attente du début d'une nouvelle partie",
-        GAME_STARTING: "La partie commence",
-        BUTTON_START: "Appuyer pour commencer",
-        BUTTON_CANCEL: "Appuyer pour annuler"
+        JOINED_COUNT: "De {maxPlayers} hominibus, {count} se adjunxerunt",
+        PLAYERS_NEEDED: "Unus ludus desideratur ut incipiat | {count} ludiores ad ludum initiandum opus sunt",
+        WAITING_FOR_VIP: "Exspecto {name} ut ludum incipiat",
+        WAITING_FOR_GAMEPAD: "Ludos incipiendos expecto",
+        WAITING_FOR_NEW_GAME: "Exspecto ludum novum ut incipiat",
+        GAME_STARTING: "Ludus incipit",
+        BUTTON_START: "Preme incipere",
+        BUTTON_CANCEL: "Preme ad rescindendum"
     },
     BW = {
-        GALLERY_LINK: "Visiter la galerie",
-        NEW_GAME_STARTED: "Une nouvelle partie a commencé",
-        PLAY_AGAIN: "Rejouer ?",
-        THANKS_FOR_PLAYING: "Merci d'avoir joué !",
-        BUTTON_GO_TO_GAME: "Aller au jeu",
-        BUTTON_GO_TO_JACKBOX: "Retour à jackbox.tv",
-        BUTTON_SAME_PLAYERS: "Mêmes joueurs",
-        BUTTON_NEW_PLAYERS: "Nouveaux joueurs"
+        GALLERY_LINK: "Vis pinacothecam",
+        NEW_GAME_STARTED: "Ludus novus inceperunt",
+        PLAY_AGAIN: "Iterum ludere?",
+        THANKS_FOR_PLAYING: "Bene ludistis!",
+        BUTTON_GO_TO_GAME: "Ite ad ludum",
+        BUTTON_GO_TO_JACKBOX: "Redire ad lat.jackbox.de",
+        BUTTON_SAME_PLAYERS: "Eidem lusores",
+        BUTTON_NEW_PLAYERS: "Novi lusores"
     },
     DW = {
         AND: "ET",
-        OR: "OU"
+        OR: "AUT"
     },
     MW = {
-        BUTTON_SKIP: "Passer",
-        BUTTON_NEXT: "Suivant",
-        BUTTON_DONE: "Allons-y !"
+        BUTTON_SKIP: "Praeterire",
+        BUTTON_NEXT: "Deinde",
+        BUTTON_DONE: "Eamus!"
     },
     $W = {
-        NAME: "SPECTATEURS"
+        NAME: "SPECTATORES"
     },
     KW = {
         CART: {
-            CHECK_OUT: "Paiement",
-            EMPTY: "Votre panier est vide",
-            TITLE: "Panier",
-            TOTAL: "Total"
+            CHECK_OUT: "Persolvere pretium et abire",
+            EMPTY: "Currus tuus vacuus est",
+            TITLE: "Plaustrum mercatoris",
+            TOTAL: "totalis"
         }
     },
     kW = {
-        EPISODE_REPORT: "Signaler l'épisode",
-        EPISODE_UNLOAD: "Retirer l'épisode",
-        EPISODE_VIEW_AUTHOR: "Voir l'auteur",
-        EPISODES_LOAD: "Charger un épisode par id :",
-        EPISODES_MENU: "Menu des épisodes",
-        EPISODES_SELECT: "Ou sélectionner un épisode :",
-        EPISODES_WARNING: "Attention : le contenu généré par les utilisateurs ne fait pas l'objet d'un classement",
+        EPISODE_REPORT: "Nuntiare Episodium",
+        EPISODE_UNLOAD: "Edere Episodium",
+        EPISODE_VIEW_AUTHOR: "Videre Auctor",
+        EPISODES_LOAD: "Episodium per indicem:",
+        EPISODES_MENU: "Index Episodiorum",
+        EPISODES_SELECT: "Aut eligere episodium:",
+        EPISODES_WARNING: "Monemus: A usoribus creatum contentum non est astimatum",
         INSTRUCTION: {
-            CREATE_TITLE: "commencez par donner un nom à l'épisode qui contiendra vos sujets, puis touchez créer.",
-            LOAD: "créer ou charger ?",
-            PUBLISH: "publiez votre épisode",
-            TITLE: "donnez un nom à votre épisode",
-            TOGGLE_VISIBILITY: "touchez pour afficher/masquer les sujets",
-            WRITE: "écrivez vos sujets"
+            CREATE_TITLE: "primum autem nomen seriei compone in qua omnes interrogationes tuae continebuntur, deinde crea.",
+            LOAD: "creare an imponere?",
+            PUBLISH: "edere tuum episodium",
+            TITLE: "dare nomen episodio tuum",
+            TOGGLE_VISIBILITY: "tange monstrare/celare incitationes",
+            WRITE: "scibere argumenta tua"
         },
         WARNING: {
-            DELETE: "Voulez-vous vraiment supprimer cet épisode ?",
-            TOS: "En partageant votre contenu, vous acceptez nos [tos]Conditions de service[/tos]",
-            TOS_AGREE: "accepter et partager"
+            DELETE: "Num certus es te velle hanc fabulam delere?",
+            TOS: "Contenta communicando, [tos]Conditiones Utendarum[/tos] nostras acceptas",
+            TOS_AGREE: "assentire et communicare"
         },
-        BACK_TO_EPISODES: "retour aux épisodes",
-        BACK_TO_MENU: "retour au menu",
-        CREATE_NEW_EPISODE: "créer un nouvel épisode",
-        PREVIOUS_EPISODES: "épisodes précédents",
-        PROMPT_ADD: "ajouter un sujet",
-        PROMPT_PLACEHOLDER: "taper un sujet",
-        PROMPTS_COUNT_HIDDEN: "({count} non affiché)",
-        TITLE_PLACEHOLDER: "taper un titre"
+        BACK_TO_EPISODES: "redire ad narrationes",
+        BACK_TO_MENU: "redire ad indicem",
+        CREATE_NEW_EPISODE: "creare novum episodium",
+        PREVIOUS_EPISODES: "episodia superiora",
+        PROMPT_ADD: "addere argumentum",
+        PROMPT_PLACEHOLDER: "imperare argumentum",
+        PROMPTS_COUNT_HIDDEN: "({count} occultae)",
+        TITLE_PLACEHOLDER: "inscribe titulum"
     },
     GW = {
         BROADCASTER: {
-            SUBTEXT: "La connexion de votre compte à l'extension Twitch Jackbox Audience Kit a réussi.",
-            WARNING: "LE PARAMÈTRE 'PUBLIC' N'EST PAS ACTIVÉ DANS CETTE SALLE."
+            SUBTEXT: "Vos rationem vestram ad Completum Audientiae feliciter connexistis.",
+            WARNING: "IN HOC CUBICULO AUDITORUM MODUS NON EST ACTUS."
         },
         RECONNECTED: {
-            TEXT: "RECONNECTÉ(E)",
-            SUBTEXT: "Amusez-vous bien !"
+            TEXT: "RECONCILIATUS",
+            SUBTEXT: "Bene tibi tempus sit!"
         },
         RECONNECTING: {
             CONTROLLER: {
-                TEXT: "CONNEXION INTERROMPUE",
-                SUBTEXT: "Tentative de reconnexion ({attempt} sur 5)"
+                TEXT: "CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Conari reconectere ({attempt} de V)"
             },
             GAME: {
-                TEXT: "CONNEXION AU JEU INTERROMPUE",
-                SUBTEXT: "Veuillez patienter pendant que nous tentons de vous reconnecter."
+                TEXT: "LUDUS CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Paulisper mane, dum conexionem reficere conamur"
             }
         },
         PAUSED: {
-            TEXT: "LA PARTIE EST EN PAUSE",
-            SUBTEXT: "Tout ce que vous proposez sera quand même envoyé dans le jeu."
+            TEXT: "LUDUS INTERRUPTUS EST",
+            SUBTEXT: "Quodcunque submittis, adhuc ad ludum mittetur."
         }
     },
     VW = {
-        SHARE: "Partager",
-        COPY_TO_CLIPBOARD: "Copier dans le presse-papiers",
-        COPIED: "Copié"
+        SHARE: "Communicare",
+        COPY_TO_CLIPBOARD: "Descriptum ad servandum",
+        COPIED: "Similatur"
     },
     FW = {
         ACTION: OW,
@@ -24180,143 +24180,143 @@ const mW = {
         SHARE: VW
     },
     HW = {
-        BACK: "Indietro",
-        CANCEL: "Annulla",
-        CLOSE: "Chiuda",
-        CONFIRM: "Conferma",
-        CREATE: "Crea",
-        DELETE: "Elimina",
-        DONE: "Fine",
-        EDIT: "Modifica",
-        OK: "OK",
-        NEXT: "Prossimo",
-        NO: "No",
-        PLAY: "Gioca",
-        PUBLISH: "Pubblica",
-        REMOVE: "Rimuovi",
-        RESET: "Reset",
-        SUBMIT: "Invia",
-        TRY_AGAIN: "Riprova",
-        UNDO: "Annulla",
-        YES: "Sì"
+        BACK: "Retro",
+        CANCEL: "Recipere",
+        CLOSE: "Claudere",
+        CONFIRM: "Confirmare",
+        CREATE: "Auctorizare",
+        DELETE: "Exstinguere",
+        DONE: "Defunge",
+        EDIT: "Tractare",
+        OK: "Bene habet!",
+        NEXT: "Amplius",
+        NO: "Non",
+        PLAY: "Ludere",
+        PUBLISH: "Divulgare",
+        REMOVE: "Removere",
+        RESET: "Exstinguere",
+        SUBMIT: "Munerare",
+        TRY_AGAIN: "Iterum conare",
+        UNDO: "Adnullare",
+        YES: "Ita"
     },
     WW = {
         UGC: {
-            VISIBILITY_CONTROLLER_OFF: "definizioni nascoste sui dispositivi dei giocatori",
-            VISIBILITY_CONTROLLER_ON: "definizioni visualizzate sui dispositivi dei giocatori",
-            VISIBILITY_SCREEN_OFF: "definizioni nascoste sullo schermo di gioco",
-            VISIBILITY_SCREEN_ON: "definizioni visualizzate sullo schermo di gioco"
+            VISIBILITY_CONTROLLER_OFF: "monita in ludorum instrumentorum occulta",
+            VISIBILITY_CONTROLLER_ON: "monita in ludorum instrumentorum ostensa",
+            VISIBILITY_SCREEN_OFF: "monita in velo ludorum abscondita",
+            VISIBILITY_SCREEN_ON: "monita in velo ludorum visa"
         }
     },
     XW = {
-        DISCONNECTED: "È stata effettuata la disconnessione.",
-        DRAWING_NOTHING: "Devi disegnare qualcosa!",
-        PLAYER_KICKED: "Un moderatore ti ha cacciato dalla partita.",
-        ROOM_DESTROYED: "Grazie per aver scelto di giocare con noi!",
-        ROOM_DISCONNECTED: "Disconnessione effettuata",
-        TEXT_NAUGHTY: "Purtroppo non puoi scrivere questa cosa. Abbi rispetto per gli altri giocatori.",
-        TEXT_NOTHING: "Devi per forza inserire qualcosa!",
-        TITLE: "Errore"
+        DISCONNECTED: "Discessisti.",
+        DRAWING_NOTHING: "Aliquid tibi pingendum est!",
+        PLAYER_KICKED: "A moderatore e ludo expulsus es.",
+        ROOM_DESTROYED: "Bene lusisti!",
+        ROOM_DISCONNECTED: "Discessisti",
+        TEXT_NAUGHTY: "Vereor ne id scribere tibi liceat. Te rogo, ut erga alios lusores reverentiam serves.",
+        TEXT_NOTHING: "Non potes nihil inscribere!",
+        TITLE: "Error"
     },
-    jW = "CARICAMENTO",
+    jW = "LOADING",
     zW = {
-        JOINED_COUNT: "{count} su {maxPlayers} giocatori in partita",
-        PLAYERS_NEEDED: "Manca 1 giocatore per iniziare | Mancano {count} giocatori per iniziare",
-        WAITING_FOR_VIP: "In attesa di {name} per iniziare la partita",
-        WAITING_FOR_GAMEPAD: "In attesa d'iniziare la partita",
-        WAITING_FOR_NEW_GAME: "In attesa d'iniziare una nuova partita",
-        GAME_STARTING: "La partita sta per iniziare",
-        BUTTON_START: "Premi per avviare",
-        BUTTON_CANCEL: "Premi per annullare"
+        JOINED_COUNT: "De {maxPlayers} hominibus, {count} se adjunxerunt",
+        PLAYERS_NEEDED: "Unus ludus desideratur ut incipiat | {count} ludiores ad ludum initiandum opus sunt",
+        WAITING_FOR_VIP: "Exspecto {name} ut ludum incipiat",
+        WAITING_FOR_GAMEPAD: "Ludos incipiendos expecto",
+        WAITING_FOR_NEW_GAME: "Exspecto ludum novum ut incipiat",
+        GAME_STARTING: "Ludus incipit",
+        BUTTON_START: "Preme incipere",
+        BUTTON_CANCEL: "Preme ad rescindendum"
     },
     qW = {
-        GALLERY_LINK: "Visita la galleria",
-        NEW_GAME_STARTED: "È iniziata una nuova partita",
-        PLAY_AGAIN: "Vuoi giocare di nuovo?",
-        THANKS_FOR_PLAYING: "Grazie per aver scelto di giocare con noi!",
-        BUTTON_GO_TO_GAME: "Vai al gioco",
-        BUTTON_GO_TO_JACKBOX: "Torna a jackbox.tv",
-        BUTTON_SAME_PLAYERS: "Stessi giocatori",
-        BUTTON_NEW_PLAYERS: "Nuovi giocatori"
+        GALLERY_LINK: "Vis pinacothecam",
+        NEW_GAME_STARTED: "Ludus novus inceperunt",
+        PLAY_AGAIN: "Iterum ludere?",
+        THANKS_FOR_PLAYING: "Bene ludistis!",
+        BUTTON_GO_TO_GAME: "Ite ad ludum",
+        BUTTON_GO_TO_JACKBOX: "Redire ad lat.jackbox.de",
+        BUTTON_SAME_PLAYERS: "Eidem lusores",
+        BUTTON_NEW_PLAYERS: "Novi lusores"
     },
     YW = {
-        AND: "E",
-        OR: "O"
+        AND: "ET",
+        OR: "AUT"
     },
     JW = {
-        BUTTON_SKIP: "Salta",
-        BUTTON_NEXT: "Avanti",
-        BUTTON_DONE: "Iniziamo!"
+        BUTTON_SKIP: "Praeterire",
+        BUTTON_NEXT: "Deinde",
+        BUTTON_DONE: "Eamus!"
     },
     ZW = {
-        NAME: "PUBBLICO"
+        NAME: "SPECTATORES"
     },
     QW = {
         CART: {
-            CHECK_OUT: "Vai al pagamento",
-            EMPTY: "Il carrello è vuoto",
-            TITLE: "Carrello",
-            TOTAL: "Totale"
+            CHECK_OUT: "Persolvere pretium et abire",
+            EMPTY: "Currus tuus vacuus est",
+            TITLE: "Plaustrum mercatoris",
+            TOTAL: "totalis"
         }
     },
     eX = {
-        EPISODE_REPORT: "Segnala episodio",
-        EPISODE_UNLOAD: "Rimuovi episodio",
-        EPISODE_VIEW_AUTHOR: "Mostra autore",
-        EPISODES_LOAD: "Carica un episodio in base al suo id:",
-        EPISODES_MENU: "Menu Episodi",
-        EPISODES_SELECT: "Oppure seleziona un episodio:",
-        EPISODES_WARNING: "Attenzione: il contenuto generato dagli utenti non è classificato",
+        EPISODE_REPORT: "Nuntiare Episodium",
+        EPISODE_UNLOAD: "Edere Episodium",
+        EPISODE_VIEW_AUTHOR: "Videre Auctor",
+        EPISODES_LOAD: "Episodium per indicem:",
+        EPISODES_MENU: "Index Episodiorum",
+        EPISODES_SELECT: "Aut eligere episodium:",
+        EPISODES_WARNING: "Monemus: A usoribus creatum contentum non est astimatum",
         INSTRUCTION: {
-            CREATE_TITLE: "per prima cosa, inserisci un nome per l’episodio che contenga tutti i tuoi suggerimenti e premi crea.",
-            LOAD: "creare o caricare?",
-            PUBLISH: "pubblica il tuo episodio",
-            TITLE: "dai un nome al tuo episodio",
-            TOGGLE_VISIBILITY: "tocca per mostrare/nascondere suggerimenti",
-            WRITE: "scrivi le tue definizioni"
+            CREATE_TITLE: "primum autem nomen seriei compone in qua omnes interrogationes tuae continebuntur, deinde crea.",
+            LOAD: "creare an imponere?",
+            PUBLISH: "edere tuum episodium",
+            TITLE: "dare nomen episodio tuum",
+            TOGGLE_VISIBILITY: "tange monstrare/celare incitationes",
+            WRITE: "scibere argumenta tua"
         },
         WARNING: {
-            DELETE: "Vuoi davvero eliminare questo episodio?",
-            TOS: "Condividendo i contenuti, accetti le nostre [tos]Condizioni del servizio[/tos]",
-            TOS_AGREE: "accetta e condividi"
+            DELETE: "Num certus es te velle hanc fabulam delere?",
+            TOS: "Contenta communicando, [tos]Conditiones Utendarum[/tos] nostras acceptas",
+            TOS_AGREE: "assentire et communicare"
         },
-        BACK_TO_EPISODES: "torna agli episodi",
-        BACK_TO_MENU: "torna al menu",
-        CREATE_NEW_EPISODE: "crea un nuovo episodio",
-        PREVIOUS_EPISODES: "episodi precedenti",
-        PROMPT_ADD: "aggiungi suggerimento",
-        PROMPT_PLACEHOLDER: "inserisci suggerimento",
-        PROMPTS_COUNT_HIDDEN: "({count} nascosti)",
-        TITLE_PLACEHOLDER: "inserisci un titolo"
+        BACK_TO_EPISODES: "redire ad narrationes",
+        BACK_TO_MENU: "redire ad indicem",
+        CREATE_NEW_EPISODE: "creare novum episodium",
+        PREVIOUS_EPISODES: "episodia superiora",
+        PROMPT_ADD: "addere argumentum",
+        PROMPT_PLACEHOLDER: "imperare argumentum",
+        PROMPTS_COUNT_HIDDEN: "({count} occultae)",
+        TITLE_PLACEHOLDER: "inscribe titulum"
     },
     tX = {
         BROADCASTER: {
-            SUBTEXT: "Il collegamento del tuo account con l'estensione per Twitch Jackbox Audience Kit è andato a buon fine.",
-            WARNING: "L'IMPOSTAZIONE DEL PUBBLICO NON È ATTIVA PER QUESTA STANZA"
+            SUBTEXT: "Vos rationem vestram ad Completum Audientiae feliciter connexistis.",
+            WARNING: "IN HOC CUBICULO AUDITORUM MODUS NON EST ACTUS."
         },
         RECONNECTED: {
-            TEXT: "RICONNESSO",
-            SUBTEXT: "Buon divertimento!"
+            TEXT: "RECONCILIATUS",
+            SUBTEXT: "Bene tibi tempus sit!"
         },
         RECONNECTING: {
             CONTROLLER: {
-                TEXT: "CONNESSIONE INTERROTTA",
-                SUBTEXT: "Tentativo di riconnessione in corso ({attempt} di 5)"
+                TEXT: "CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Conari reconectere ({attempt} de V)"
             },
             GAME: {
-                TEXT: "CONNESSIONE AL GIOCO INTERROTTA",
-                SUBTEXT: "Resta in attesa mentre proviamo a riconnetterci"
+                TEXT: "LUDUS CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Paulisper mane, dum conexionem reficere conamur"
             }
         },
         PAUSED: {
-            TEXT: "IL GIOCO È IN PAUSA",
-            SUBTEXT: "Qualsiasi cosa invii sarà comunque inviata al gioco."
+            TEXT: "LUDUS INTERRUPTUS EST",
+            SUBTEXT: "Quodcunque submittis, adhuc ad ludum mittetur."
         }
     },
     rX = {
-        SHARE: "Condividi",
-        COPY_TO_CLIPBOARD: "Copia negli appunti",
-        COPIED: "Copiato"
+        SHARE: "Communicare",
+        COPY_TO_CLIPBOARD: "Descriptum ad servandum",
+        COPIED: "Similatur"
     },
     nX = {
         ACTION: HW,
@@ -24334,143 +24334,143 @@ const mW = {
         SHARE: rX
     },
     iX = {
-        BACK: "Zurück",
-        CANCEL: "Abbrechen",
-        CLOSE: "Schließen",
-        CONFIRM: "Bestätigen",
-        CREATE: "Erstellen",
-        DELETE: "Löschen",
-        DONE: "Fertig",
-        EDIT: "Bearbeiten",
-        OK: "OK",
-        NEXT: "Weiter",
-        NO: "Nein",
-        PLAY: "Spielen",
-        PUBLISH: "Veröffentlichen",
-        REMOVE: "Entfernen",
-        RESET: "Neu starten",
-        SUBMIT: "Abschicken",
-        TRY_AGAIN: "Erneut versuchen",
-        UNDO: "Rückgängig",
-        YES: "Ja"
+        BACK: "Retro",
+        CANCEL: "Recipere",
+        CLOSE: "Claudere",
+        CONFIRM: "Confirmare",
+        CREATE: "Auctorizare",
+        DELETE: "Exstinguere",
+        DONE: "Defunge",
+        EDIT: "Tractare",
+        OK: "Bene habet!",
+        NEXT: "Amplius",
+        NO: "Non",
+        PLAY: "Ludere",
+        PUBLISH: "Divulgare",
+        REMOVE: "Removere",
+        RESET: "Exstinguere",
+        SUBMIT: "Munerare",
+        TRY_AGAIN: "Iterum conare",
+        UNDO: "Adnullare",
+        YES: "Ita"
     },
     sX = {
         UGC: {
-            VISIBILITY_CONTROLLER_OFF: "Prompts auf Spielergeräten verborgen",
-            VISIBILITY_CONTROLLER_ON: "Prompts auf Spielergeräten angezeigt",
-            VISIBILITY_SCREEN_OFF: "Prompts auf Spielbildschirm verborgen",
-            VISIBILITY_SCREEN_ON: "Prompts auf Spielbildschirm angezeigt"
+            VISIBILITY_CONTROLLER_OFF: "monita in ludorum instrumentorum occulta",
+            VISIBILITY_CONTROLLER_ON: "monita in ludorum instrumentorum ostensa",
+            VISIBILITY_SCREEN_OFF: "monita in velo ludorum abscondita",
+            VISIBILITY_SCREEN_ON: "monita in velo ludorum visa"
         }
     },
     aX = {
-        DISCONNECTED: "Deine Verbindung wurde getrennt.",
-        DRAWING_NOTHING: "Du musst irgendwas zeichnen!",
-        PLAYER_KICKED: "Du wurdest von einem Moderator gekickt.",
-        ROOM_DESTROYED: "Danke fürs Spielen!",
-        ROOM_DISCONNECTED: "Verbindung getrennt",
-        TEXT_NAUGHTY: "Das kannst du leider nicht schreiben. Bitte nimm Rücksicht auf deine Mitspieler.",
-        TEXT_NOTHING: "Du musst etwas eingeben!",
-        TITLE: "Fehler"
+        DISCONNECTED: "Discessisti.",
+        DRAWING_NOTHING: "Aliquid tibi pingendum est!",
+        PLAYER_KICKED: "A moderatore e ludo expulsus es.",
+        ROOM_DESTROYED: "Bene lusisti!",
+        ROOM_DISCONNECTED: "Discessisti",
+        TEXT_NAUGHTY: "Vereor ne id scribere tibi liceat. Te rogo, ut erga alios lusores reverentiam serves.",
+        TEXT_NOTHING: "Non potes nihil inscribere!",
+        TITLE: "Error"
     },
-    oX = "LADE",
+    oX = "LOADING",
     lX = {
-        JOINED_COUNT: "{count} von {maxPlayers} Spielern sind beigetreten",
-        PLAYERS_NEEDED: "1 Spieler zum Starten benötigt | {count} Spieler zum Starten benötigt",
-        WAITING_FOR_VIP: "Warten, bis {name} das Spiel startet",
-        WAITING_FOR_GAMEPAD: "Warten, bis das Spiel startet",
-        WAITING_FOR_NEW_GAME: "Warten, bis ein neues Spiel startet",
-        GAME_STARTING: "Das Spiel beginnt",
-        BUTTON_START: "Zum Starten drücken",
-        BUTTON_CANCEL: "Zum Abbrechen drücken"
+        JOINED_COUNT: "De {maxPlayers} hominibus, {count} se adjunxerunt",
+        PLAYERS_NEEDED: "Unus ludus desideratur ut incipiat | {count} ludiores ad ludum initiandum opus sunt",
+        WAITING_FOR_VIP: "Exspecto {name} ut ludum incipiat",
+        WAITING_FOR_GAMEPAD: "Ludos incipiendos expecto",
+        WAITING_FOR_NEW_GAME: "Exspecto ludum novum ut incipiat",
+        GAME_STARTING: "Ludus incipit",
+        BUTTON_START: "Preme incipere",
+        BUTTON_CANCEL: "Preme ad rescindendum"
     },
     uX = {
-        GALLERY_LINK: "Galerie besuchen",
-        NEW_GAME_STARTED: "Ein neues Spiel hat begonnen",
-        PLAY_AGAIN: "Erneut spielen?",
-        THANKS_FOR_PLAYING: "Danke fürs Spielen!",
-        BUTTON_GO_TO_GAME: "Zum Spiel",
-        BUTTON_GO_TO_JACKBOX: "Zurück zu jackbox.tv",
-        BUTTON_SAME_PLAYERS: "Selbe Spieler",
-        BUTTON_NEW_PLAYERS: "Neue Spieler"
+        GALLERY_LINK: "Vis pinacothecam",
+        NEW_GAME_STARTED: "Ludus novus inceperunt",
+        PLAY_AGAIN: "Iterum ludere?",
+        THANKS_FOR_PLAYING: "Bene ludistis!",
+        BUTTON_GO_TO_GAME: "Ite ad ludum",
+        BUTTON_GO_TO_JACKBOX: "Redire ad lat.jackbox.de",
+        BUTTON_SAME_PLAYERS: "Eidem lusores",
+        BUTTON_NEW_PLAYERS: "Novi lusores"
     },
     fX = {
-        AND: "UND",
-        OR: "ODER"
+        AND: "ET",
+        OR: "AUT"
     },
     cX = {
-        BUTTON_SKIP: "Überspringen",
-        BUTTON_NEXT: "Weiter",
-        BUTTON_DONE: "Los geht's!"
+        BUTTON_SKIP: "Praeterire",
+        BUTTON_NEXT: "Deinde",
+        BUTTON_DONE: "Eamus!"
     },
     pX = {
-        NAME: "PUBLIKUM"
+        NAME: "SPECTATORES"
     },
     dX = {
         CART: {
-            CHECK_OUT: "Kasse",
-            EMPTY: "Dein Einkaufswagen ist leer",
-            TITLE: "Einkaufswagen",
-            TOTAL: "Gesamtsumme"
+            CHECK_OUT: "Persolvere pretium et abire",
+            EMPTY: "Currus tuus vacuus est",
+            TITLE: "Plaustrum mercatoris",
+            TOTAL: "totalis"
         }
     },
     hX = {
-        EPISODE_REPORT: "Episode melden",
-        EPISODE_UNLOAD: "Episode deaktivieren",
-        EPISODE_VIEW_AUTHOR: "Autor ansehen",
-        EPISODES_LOAD: "Lade eine Episode über dessen ID:",
-        EPISODES_MENU: "Episoden-Menü",
-        EPISODES_SELECT: "Oder wähle eine Episode aus:",
-        EPISODES_WARNING: "Achtung: Von Nutzern erstellte Inhalte werden nicht auf Familientauglichkeit geprüft",
+        EPISODE_REPORT: "Nuntiare Episodium",
+        EPISODE_UNLOAD: "Edere Episodium",
+        EPISODE_VIEW_AUTHOR: "Videre Auctor",
+        EPISODES_LOAD: "Episodium per indicem:",
+        EPISODES_MENU: "Index Episodiorum",
+        EPISODES_SELECT: "Aut eligere episodium:",
+        EPISODES_WARNING: "Monemus: A usoribus creatum contentum non est astimatum",
         INSTRUCTION: {
-            CREATE_TITLE: 'Benenne als allererstes deine Episode, die alle deine Prompts enthalten wird und drücke dann "Erstellen".',
-            LOAD: "Erstellen oder laden?",
-            PUBLISH: "Veröffentliche deine Episode",
-            TITLE: "Benenne deine Episode",
-            TOGGLE_VISIBILITY: "Drücken, um Prompts zu zeigen / zu verstecken",
-            WRITE: "Schreibe deine Prompts"
+            CREATE_TITLE: "primum autem nomen seriei compone in qua omnes interrogationes tuae continebuntur, deinde crea.",
+            LOAD: "creare an imponere?",
+            PUBLISH: "edere tuum episodium",
+            TITLE: "dare nomen episodio tuum",
+            TOGGLE_VISIBILITY: "tange monstrare/celare incitationes",
+            WRITE: "scibere argumenta tua"
         },
         WARNING: {
-            DELETE: "Bist du sicher, dass du diese Episode löschen möchtest?",
-            TOS: "Durch das Teilen von Inhalten stimmst du unseren [tos]Nutzungsbedingungen[/tos] zu",
-            TOS_AGREE: "Zustimmen und teilen"
+            DELETE: "Num certus es te velle hanc fabulam delere?",
+            TOS: "Contenta communicando, [tos]Conditiones Utendarum[/tos] nostras acceptas",
+            TOS_AGREE: "assentire et communicare"
         },
-        BACK_TO_EPISODES: "Zurück zu den Episoden",
-        BACK_TO_MENU: "Zurück zum Menü",
-        CREATE_NEW_EPISODE: "Eigene Episode erstellen",
-        PREVIOUS_EPISODES: "Vorige Episoden",
-        PROMPT_ADD: "Prompt hinzufügen",
-        PROMPT_PLACEHOLDER: "Prompt eingeben",
-        PROMPTS_COUNT_HIDDEN: "({count} versteckt)",
-        TITLE_PLACEHOLDER: "Titel eingeben"
+        BACK_TO_EPISODES: "redire ad narrationes",
+        BACK_TO_MENU: "redire ad indicem",
+        CREATE_NEW_EPISODE: "creare novum episodium",
+        PREVIOUS_EPISODES: "episodia superiora",
+        PROMPT_ADD: "addere argumentum",
+        PROMPT_PLACEHOLDER: "imperare argumentum",
+        PROMPTS_COUNT_HIDDEN: "({count} occultae)",
+        TITLE_PLACEHOLDER: "inscribe titulum"
     },
     EX = {
         BROADCASTER: {
-            SUBTEXT: "Du hast dein Konto erfolgreich mit der Jackbox Audience Kit Twitch-Erweiterung verknüpft.",
-            WARNING: "FÜR DIESEN RAUM IST DIE PUBLIKUMS-EINSTELLUNG NICHT AKTIV"
+            SUBTEXT: "Vos rationem vestram ad Completum Audientiae feliciter connexistis.",
+            WARNING: "IN HOC CUBICULO AUDITORUM MODUS NON EST ACTUS."
         },
         RECONNECTED: {
-            TEXT: "NEU VERBUNDEN",
-            SUBTEXT: "Viel Spaß!"
+            TEXT: "RECONCILIATUS",
+            SUBTEXT: "Bene tibi tempus sit!"
         },
         RECONNECTING: {
             CONTROLLER: {
-                TEXT: "VERBINDUNG UNTERBROCHEN",
-                SUBTEXT: "Versuche neu zu verbinden ({attempt} von 5)"
+                TEXT: "CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Conari reconectere ({attempt} de V)"
             },
             GAME: {
-                TEXT: "VERBINDUNG ZUM SPIEL UNTERBROCHEN",
-                SUBTEXT: "Bitte warte während wir versuchen, die Verbindung wiederherzustellen."
+                TEXT: "LUDUS CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Paulisper mane, dum conexionem reficere conamur"
             }
         },
         PAUSED: {
-            TEXT: "DAS SPIEL IST PAUSIERT",
-            SUBTEXT: "Alles, was du abschickst, wird weiterhin ans Spiel gesendet."
+            TEXT: "LUDUS INTERRUPTUS EST",
+            SUBTEXT: "Quodcunque submittis, adhuc ad ludum mittetur."
         }
     },
     mX = {
-        SHARE: "Teilen",
-        COPY_TO_CLIPBOARD: "In Zwischenablage kopieren",
-        COPIED: "Kopiert"
+        SHARE: "Communicare",
+        COPY_TO_CLIPBOARD: "Descriptum ad servandum",
+        COPIED: "Similatur"
     },
     gX = {
         ACTION: iX,
@@ -24488,143 +24488,143 @@ const mW = {
         SHARE: mX
     },
     _X = {
-        BACK: "Atrás",
-        CANCEL: "Cancelar",
-        CLOSE: "Cerrar",
-        CONFIRM: "Confirmar",
-        CREATE: "Crear",
-        DELETE: "Borrar",
-        DONE: "Hecho",
-        EDIT: "Editar",
-        OK: "Aceptar",
-        NEXT: "Siguiente",
-        NO: "No",
-        PLAY: "Jugar",
-        PUBLISH: "Publicar",
-        REMOVE: "Eliminar",
-        RESET: "Reiniciar",
-        SUBMIT: "Enviar",
-        TRY_AGAIN: "Volver a intentarlo",
-        UNDO: "Deshacer",
-        YES: "Sí"
+        BACK: "Retro",
+        CANCEL: "Recipere",
+        CLOSE: "Claudere",
+        CONFIRM: "Confirmare",
+        CREATE: "Auctorizare",
+        DELETE: "Exstinguere",
+        DONE: "Defunge",
+        EDIT: "Tractare",
+        OK: "Bene habet!",
+        NEXT: "Amplius",
+        NO: "Non",
+        PLAY: "Ludere",
+        PUBLISH: "Divulgare",
+        REMOVE: "Removere",
+        RESET: "Exstinguere",
+        SUBMIT: "Munerare",
+        TRY_AGAIN: "Iterum conare",
+        UNDO: "Adnullare",
+        YES: "Ita"
     },
     TX = {
         UGC: {
-            VISIBILITY_CONTROLLER_OFF: "los enunciados no se muestran en el dispositivo del jugador",
-            VISIBILITY_CONTROLLER_ON: "los enunciados se muestran en el dispositivo del jugador",
-            VISIBILITY_SCREEN_OFF: "los enunciados no se muestran en la pantalla",
-            VISIBILITY_SCREEN_ON: "los enunciados se muestran en la pantalla"
+            VISIBILITY_CONTROLLER_OFF: "monita in ludorum instrumentorum occulta",
+            VISIBILITY_CONTROLLER_ON: "monita in ludorum instrumentorum ostensa",
+            VISIBILITY_SCREEN_OFF: "monita in velo ludorum abscondita",
+            VISIBILITY_SCREEN_ON: "monita in velo ludorum visa"
         }
     },
     vX = {
-        DISCONNECTED: "Te has desconectado.",
-        DRAWING_NOTHING: "¡Tienes que dibujar algo!",
-        PLAYER_KICKED: "Un moderador te ha expulsado de la partida.",
-        ROOM_DESTROYED: "¡Gracias por jugar!",
-        ROOM_DISCONNECTED: "Desconectado",
-        TEXT_NAUGHTY: "Lo siento, no puedes escribir eso. Hay que ser respetuoso con los demás jugadores.",
-        TEXT_NOTHING: "Tienes que escribir algo",
+        DISCONNECTED: "Discessisti.",
+        DRAWING_NOTHING: "Aliquid tibi pingendum est!",
+        PLAYER_KICKED: "A moderatore e ludo expulsus es.",
+        ROOM_DESTROYED: "Bene lusisti!",
+        ROOM_DISCONNECTED: "Discessisti",
+        TEXT_NAUGHTY: "Vereor ne id scribere tibi liceat. Te rogo, ut erga alios lusores reverentiam serves.",
+        TEXT_NOTHING: "Non potes nihil inscribere!",
         TITLE: "Error"
     },
-    xX = "CARGANDO",
+    xX = "LOADING",
     bX = {
-        JOINED_COUNT: "Se han unido {count} de {maxPlayers} jugadores",
-        PLAYERS_NEEDED: "Se necesita 1 jugador para empezar | Se necesitan {count} jugadores para empezar",
-        WAITING_FOR_VIP: "Esperando a que {name} inicie la partida",
-        WAITING_FOR_GAMEPAD: "Esperando a que empiece la partida",
-        WAITING_FOR_NEW_GAME: "Esperando a que empiece otra partida",
-        GAME_STARTING: "La partida va a empezar",
-        BUTTON_START: "Pulsa para empezar",
-        BUTTON_CANCEL: "Pulsa para cancelar"
+        JOINED_COUNT: "De {maxPlayers} hominibus, {count} se adjunxerunt",
+        PLAYERS_NEEDED: "Unus ludus desideratur ut incipiat | {count} ludiores ad ludum initiandum opus sunt",
+        WAITING_FOR_VIP: "Exspecto {name} ut ludum incipiat",
+        WAITING_FOR_GAMEPAD: "Ludos incipiendos expecto",
+        WAITING_FOR_NEW_GAME: "Exspecto ludum novum ut incipiat",
+        GAME_STARTING: "Ludus incipit",
+        BUTTON_START: "Preme incipere",
+        BUTTON_CANCEL: "Preme ad rescindendum"
     },
     RX = {
-        GALLERY_LINK: "Visita la galería",
-        NEW_GAME_STARTED: "Ha empezado una nueva partida",
-        PLAY_AGAIN: "¿Jugar otra vez?",
-        THANKS_FOR_PLAYING: "¡Gracias por jugar!",
-        BUTTON_GO_TO_GAME: "Ir a al juego",
-        BUTTON_GO_TO_JACKBOX: "Volver a jackbox.tv",
-        BUTTON_SAME_PLAYERS: "Los mismos jugadores",
-        BUTTON_NEW_PLAYERS: "Nuevos jugadores"
+        GALLERY_LINK: "Vis pinacothecam",
+        NEW_GAME_STARTED: "Ludus novus inceperunt",
+        PLAY_AGAIN: "Iterum ludere?",
+        THANKS_FOR_PLAYING: "Bene ludistis!",
+        BUTTON_GO_TO_GAME: "Ite ad ludum",
+        BUTTON_GO_TO_JACKBOX: "Redire ad lat.jackbox.de",
+        BUTTON_SAME_PLAYERS: "Eidem lusores",
+        BUTTON_NEW_PLAYERS: "Novi lusores"
     },
     SX = {
-        AND: "Y",
-        OR: "O"
+        AND: "ET",
+        OR: "AUT"
     },
     yX = {
-        BUTTON_SKIP: "Omitir",
-        BUTTON_NEXT: "Siguiente",
-        BUTTON_DONE: "¡Vamos!"
+        BUTTON_SKIP: "Praeterire",
+        BUTTON_NEXT: "Deinde",
+        BUTTON_DONE: "Eamus!"
     },
     AX = {
-        NAME: "PÚBLICO"
+        NAME: "SPECTATORES"
     },
     LX = {
         CART: {
-            CHECK_OUT: "Pagar",
-            EMPTY: "El carrito está vacío",
-            TITLE: "Carrito de la compra",
-            TOTAL: "Total"
+            CHECK_OUT: "Persolvere pretium et abire",
+            EMPTY: "Currus tuus vacuus est",
+            TITLE: "Plaustrum mercatoris",
+            TOTAL: "totalis"
         }
     },
     CX = {
-        EPISODE_REPORT: "Denunciar episodio",
-        EPISODE_UNLOAD: "Retirar episodio",
-        EPISODE_VIEW_AUTHOR: "Ver autor",
-        EPISODES_LOAD: "Cargar un episodio por ID:",
-        EPISODES_MENU: "Menú de episodios",
-        EPISODES_SELECT: "O selecciona un episodio:",
-        EPISODES_WARNING: "Aviso: El contenido de los usuarios no tiene clasificación de edad",
+        EPISODE_REPORT: "Nuntiare Episodium",
+        EPISODE_UNLOAD: "Edere Episodium",
+        EPISODE_VIEW_AUTHOR: "Videre Auctor",
+        EPISODES_LOAD: "Episodium per indicem:",
+        EPISODES_MENU: "Index Episodiorum",
+        EPISODES_SELECT: "Aut eligere episodium:",
+        EPISODES_WARNING: "Monemus: A usoribus creatum contentum non est astimatum",
         INSTRUCTION: {
-            CREATE_TITLE: "en primer lugar, ponle un nombre al episodio que contendrá tus enunciados y dale a crear.",
-            LOAD: "¿crear o cargar?",
-            PUBLISH: "publica tu episodio",
-            TITLE: "ponle nombre al episodio",
-            TOGGLE_VISIBILITY: "toca para mostrar u ocultar los enunciados",
-            WRITE: "escribe los enunciados"
+            CREATE_TITLE: "primum autem nomen seriei compone in qua omnes interrogationes tuae continebuntur, deinde crea.",
+            LOAD: "creare an imponere?",
+            PUBLISH: "edere tuum episodium",
+            TITLE: "dare nomen episodio tuum",
+            TOGGLE_VISIBILITY: "tange monstrare/celare incitationes",
+            WRITE: "scibere argumenta tua"
         },
         WARNING: {
-            DELETE: "¿Seguro que quieres borrar este episodio?",
-            TOS: "Al compartir contenidos, aceptas las [tos]Condiciones del servicio[/tos]",
-            TOS_AGREE: "aceptar y compartir"
+            DELETE: "Num certus es te velle hanc fabulam delere?",
+            TOS: "Contenta communicando, [tos]Conditiones Utendarum[/tos] nostras acceptas",
+            TOS_AGREE: "assentire et communicare"
         },
-        BACK_TO_EPISODES: "volver a los episodios",
-        BACK_TO_MENU: "volver al menú",
-        CREATE_NEW_EPISODE: "crear nuevo episodio",
-        PREVIOUS_EPISODES: "episodios anteriores",
-        PROMPT_ADD: "añadir enunciado",
-        PROMPT_PLACEHOLDER: "escribe un enunciado",
-        PROMPTS_COUNT_HIDDEN: "({count} ocultos)",
-        TITLE_PLACEHOLDER: "escribe un título"
+        BACK_TO_EPISODES: "redire ad narrationes",
+        BACK_TO_MENU: "redire ad indicem",
+        CREATE_NEW_EPISODE: "creare novum episodium",
+        PREVIOUS_EPISODES: "episodia superiora",
+        PROMPT_ADD: "addere argumentum",
+        PROMPT_PLACEHOLDER: "imperare argumentum",
+        PROMPTS_COUNT_HIDDEN: "({count} occultae)",
+        TITLE_PLACEHOLDER: "inscribe titulum"
     },
     wX = {
         BROADCASTER: {
-            SUBTEXT: "Has conectado tu cuenta con éxito a la extensión de Twitch del kit para público de Jackbox.",
-            WARNING: "ESTA SALA NO TIENE LA FUNCIÓN DE PÚBLICO HABILITADA"
+            SUBTEXT: "Vos rationem vestram ad Completum Audientiae feliciter connexistis.",
+            WARNING: "IN HOC CUBICULO AUDITORUM MODUS NON EST ACTUS."
         },
         RECONNECTED: {
-            TEXT: "CONEXIÓN RESTABLECIDA",
-            SUBTEXT: "¡Diviértete!"
+            TEXT: "RECONCILIATUS",
+            SUBTEXT: "Bene tibi tempus sit!"
         },
         RECONNECTING: {
             CONTROLLER: {
-                TEXT: "SE HA INTERRUMPIDO LA CONEXIÓN",
-                SUBTEXT: "Recuperando conexión (intento {attempt} de 5)"
+                TEXT: "CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Conari reconectere ({attempt} de V)"
             },
             GAME: {
-                TEXT: "SE HA INTERRUMPIDO LA CONEXIÓN CON EL JUEGO",
-                SUBTEXT: "Espera mientras intentamos recuperar la conexión"
+                TEXT: "LUDUS CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Paulisper mane, dum conexionem reficere conamur"
             }
         },
         PAUSED: {
-            TEXT: "PARTIDA EN PAUSA",
-            SUBTEXT: "Tus respuestas se enviarán igualmente al juego."
+            TEXT: "LUDUS INTERRUPTUS EST",
+            SUBTEXT: "Quodcunque submittis, adhuc ad ludum mittetur."
         }
     },
     OX = {
-        SHARE: "Compartir",
-        COPY_TO_CLIPBOARD: "Copiar al portapapeles",
-        COPIED: "Copiado"
+        SHARE: "Communicare",
+        COPY_TO_CLIPBOARD: "Descriptum ad servandum",
+        COPIED: "Similatur"
     },
     IX = {
         ACTION: _X,
@@ -24642,143 +24642,143 @@ const mW = {
         SHARE: OX
     },
     NX = {
-        BACK: "Volver",
-        CANCEL: "Cancelar",
-        CLOSE: "Cerrar",
-        CONFIRM: "Confirmar",
-        CREATE: "Crear",
-        DELETE: "Borrar",
-        DONE: "Listo",
-        EDIT: "Editar",
-        OK: "Aceptar",
-        NEXT: "Siguiente",
-        NO: "No",
-        PLAY: "Jugar",
-        PUBLISH: "Publicar",
-        REMOVE: "Quitar",
-        RESET: "Reiniciar",
-        SUBMIT: "Enviar",
-        TRY_AGAIN: "Volver a intentarlo",
-        UNDO: "Deshacer",
-        YES: "Sí"
+        BACK: "Retro",
+        CANCEL: "Recipere",
+        CLOSE: "Claudere",
+        CONFIRM: "Confirmare",
+        CREATE: "Auctorizare",
+        DELETE: "Exstinguere",
+        DONE: "Defunge",
+        EDIT: "Tractare",
+        OK: "Bene habet!",
+        NEXT: "Amplius",
+        NO: "Non",
+        PLAY: "Ludere",
+        PUBLISH: "Divulgare",
+        REMOVE: "Removere",
+        RESET: "Exstinguere",
+        SUBMIT: "Munerare",
+        TRY_AGAIN: "Iterum conare",
+        UNDO: "Adnullare",
+        YES: "Ita"
     },
     PX = {
         UGC: {
-            VISIBILITY_CONTROLLER_OFF: "indicaciones ocultas en los dispositivos de los jugadores",
-            VISIBILITY_CONTROLLER_ON: "indicaciones presentes en los dispositivos de los jugadores",
-            VISIBILITY_SCREEN_OFF: "indicaciones ocultas en la pantalla del juego",
-            VISIBILITY_SCREEN_ON: "indicaciones presentes en la pantalla del juego"
+            VISIBILITY_CONTROLLER_OFF: "monita in ludorum instrumentorum occulta",
+            VISIBILITY_CONTROLLER_ON: "monita in ludorum instrumentorum ostensa",
+            VISIBILITY_SCREEN_OFF: "monita in velo ludorum abscondita",
+            VISIBILITY_SCREEN_ON: "monita in velo ludorum visa"
         }
     },
     UX = {
-        DISCONNECTED: "Te desconectaste.",
-        DRAWING_NOTHING: "¡Tienes que dibujar algo!",
-        PLAYER_KICKED: "Un moderador te expulsó del juego.",
-        ROOM_DESTROYED: "¡Gracias por jugar!",
-        ROOM_DISCONNECTED: "Desconectado",
-        TEXT_NAUGHTY: "Lo siento, no puedes escribir eso. Seamos respetuosos con los demás jugadores.",
-        TEXT_NOTHING: "¡Tienes que escribir algo!",
+        DISCONNECTED: "Discessisti.",
+        DRAWING_NOTHING: "Aliquid tibi pingendum est!",
+        PLAYER_KICKED: "A moderatore e ludo expulsus es.",
+        ROOM_DESTROYED: "Bene lusisti!",
+        ROOM_DISCONNECTED: "Discessisti",
+        TEXT_NAUGHTY: "Vereor ne id scribere tibi liceat. Te rogo, ut erga alios lusores reverentiam serves.",
+        TEXT_NOTHING: "Non potes nihil inscribere!",
         TITLE: "Error"
     },
-    BX = "CARGANDO",
+    BX = "LOADING",
     DX = {
-        JOINED_COUNT: "{count} de {maxPlayers} jugadores se unieron",
-        PLAYERS_NEEDED: "Se necesita 1 jugador para empezar | Se necesitan {count} jugadores para empezar",
-        WAITING_FOR_VIP: "Esperando a que {name} inicie la partida",
-        WAITING_FOR_GAMEPAD: "Esperando a que empiece la partida",
-        WAITING_FOR_NEW_GAME: "Esperando a que empiece una partida nueva",
-        GAME_STARTING: "La partida va a empezar",
-        BUTTON_START: "Pulsa para empezar",
-        BUTTON_CANCEL: "Pulsa para cancelar"
+        JOINED_COUNT: "De {maxPlayers} hominibus, {count} se adjunxerunt",
+        PLAYERS_NEEDED: "Unus ludus desideratur ut incipiat | {count} ludiores ad ludum initiandum opus sunt",
+        WAITING_FOR_VIP: "Exspecto {name} ut ludum incipiat",
+        WAITING_FOR_GAMEPAD: "Ludos incipiendos expecto",
+        WAITING_FOR_NEW_GAME: "Exspecto ludum novum ut incipiat",
+        GAME_STARTING: "Ludus incipit",
+        BUTTON_START: "Preme incipere",
+        BUTTON_CANCEL: "Preme ad rescindendum"
     },
     MX = {
-        GALLERY_LINK: "Visita la galería",
-        NEW_GAME_STARTED: "Una partida nueva ha empezado",
-        PLAY_AGAIN: "¿Jugar otra vez?",
-        THANKS_FOR_PLAYING: "¡Gracias por jugar!",
-        BUTTON_GO_TO_GAME: "Ir a la partida",
-        BUTTON_GO_TO_JACKBOX: "Volver a jackbox.tv",
-        BUTTON_SAME_PLAYERS: "Los mismos jugadores",
-        BUTTON_NEW_PLAYERS: "Nuevos jugadores"
+        GALLERY_LINK: "Vis pinacothecam",
+        NEW_GAME_STARTED: "Ludus novus inceperunt",
+        PLAY_AGAIN: "Iterum ludere?",
+        THANKS_FOR_PLAYING: "Bene ludistis!",
+        BUTTON_GO_TO_GAME: "Ite ad ludum",
+        BUTTON_GO_TO_JACKBOX: "Redire ad lat.jackbox.de",
+        BUTTON_SAME_PLAYERS: "Eidem lusores",
+        BUTTON_NEW_PLAYERS: "Novi lusores"
     },
     $X = {
-        AND: "Y",
-        OR: "O"
+        AND: "ET",
+        OR: "AUT"
     },
     KX = {
-        BUTTON_SKIP: "Omitir",
-        BUTTON_NEXT: "Siguiente",
-        BUTTON_DONE: "¡Vamos!"
+        BUTTON_SKIP: "Praeterire",
+        BUTTON_NEXT: "Deinde",
+        BUTTON_DONE: "Eamus!"
     },
     kX = {
-        NAME: "PÚBLICO"
+        NAME: "SPECTATORES"
     },
     GX = {
         CART: {
-            CHECK_OUT: "Comprar ahora",
-            EMPTY: "Tu carrito está vacío",
-            TITLE: "Carrito de compras",
-            TOTAL: "Total"
+            CHECK_OUT: "Persolvere pretium et abire",
+            EMPTY: "Currus tuus vacuus est",
+            TITLE: "Plaustrum mercatoris",
+            TOTAL: "totalis"
         }
     },
     VX = {
-        EPISODE_REPORT: "Denunciar episodio",
-        EPISODE_UNLOAD: "Descargar episodio",
-        EPISODE_VIEW_AUTHOR: "Ver autor",
-        EPISODES_LOAD: "Cargar un episodio por ID:",
-        EPISODES_MENU: "Menú de episodios",
-        EPISODES_SELECT: "O selecciona un episodio:",
-        EPISODES_WARNING: "Aviso: El contenido de los usuarios no tiene clasificación por edades",
+        EPISODE_REPORT: "Nuntiare Episodium",
+        EPISODE_UNLOAD: "Edere Episodium",
+        EPISODE_VIEW_AUTHOR: "Videre Auctor",
+        EPISODES_LOAD: "Episodium per indicem:",
+        EPISODES_MENU: "Index Episodiorum",
+        EPISODES_SELECT: "Aut eligere episodium:",
+        EPISODES_WARNING: "Monemus: A usoribus creatum contentum non est astimatum",
         INSTRUCTION: {
-            CREATE_TITLE: "Lo primero que debes hacer es escribir un nombre para el episodio que contendrá todas sus indicaciones y pulsar crear.",
-            LOAD: "¿Crear o cargar?",
-            PUBLISH: "Publica tu episodio",
-            TITLE: "Nombra tu episodio",
-            TOGGLE_VISIBILITY: "Pulsa para mostrar/ocultar las indicaciones",
-            WRITE: "Escribe tus indicaciones"
+            CREATE_TITLE: "primum autem nomen seriei compone in qua omnes interrogationes tuae continebuntur, deinde crea.",
+            LOAD: "creare an imponere?",
+            PUBLISH: "edere tuum episodium",
+            TITLE: "dare nomen episodio tuum",
+            TOGGLE_VISIBILITY: "tange monstrare/celare incitationes",
+            WRITE: "scibere argumenta tua"
         },
         WARNING: {
-            DELETE: "¿De verdad quieres borrar este episodio?",
-            TOS: "Al compartir contenido, aceptas nuestros [tos]Términos de servicio[/tos]",
-            TOS_AGREE: "Aceptar y compartir"
+            DELETE: "Num certus es te velle hanc fabulam delere?",
+            TOS: "Contenta communicando, [tos]Conditiones Utendarum[/tos] nostras acceptas",
+            TOS_AGREE: "assentire et communicare"
         },
-        BACK_TO_EPISODES: "Volver a los episodios",
-        BACK_TO_MENU: "Volver al menú",
-        CREATE_NEW_EPISODE: "Crear un nuevo episodio",
-        PREVIOUS_EPISODES: "Episodios anteriores",
-        PROMPT_ADD: "Añadir indicación",
-        PROMPT_PLACEHOLDER: "Escribe una indicación",
-        PROMPTS_COUNT_HIDDEN: "({count} oculto(s))",
-        TITLE_PLACEHOLDER: "Escribir un título"
+        BACK_TO_EPISODES: "redire ad narrationes",
+        BACK_TO_MENU: "redire ad indicem",
+        CREATE_NEW_EPISODE: "creare novum episodium",
+        PREVIOUS_EPISODES: "episodia superiora",
+        PROMPT_ADD: "addere argumentum",
+        PROMPT_PLACEHOLDER: "imperare argumentum",
+        PROMPTS_COUNT_HIDDEN: "({count} occultae)",
+        TITLE_PLACEHOLDER: "inscribe titulum"
     },
     FX = {
         BROADCASTER: {
-            SUBTEXT: "Conectaste correctamente tu cuenta a la extensión para Twitch del kit para público de Jackbox.",
-            WARNING: "ESTA SALA NO TIENE ACTIVADA LA OPCIÓN DE PÚBLICO"
+            SUBTEXT: "Vos rationem vestram ad Completum Audientiae feliciter connexistis.",
+            WARNING: "IN HOC CUBICULO AUDITORUM MODUS NON EST ACTUS."
         },
         RECONNECTED: {
-            TEXT: "CONEXIÓN RESTABLECIDA",
-            SUBTEXT: "¡Diviértete!"
+            TEXT: "RECONCILIATUS",
+            SUBTEXT: "Bene tibi tempus sit!"
         },
         RECONNECTING: {
             CONTROLLER: {
-                TEXT: "CONEXIÓN INTERRUMPIDA",
-                SUBTEXT: "Intento de reconexión ({attempt} de 5)"
+                TEXT: "CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Conari reconectere ({attempt} de V)"
             },
             GAME: {
-                TEXT: "SE INTERRUMPIÓ LA CONEXIÓN AL JUEGO",
-                SUBTEXT: "Espera mientras intentamos restablecer la conexión"
+                TEXT: "LUDUS CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Paulisper mane, dum conexionem reficere conamur"
             }
         },
         PAUSED: {
-            TEXT: "EL JUEGO ESTÁ EN PAUSA",
-            SUBTEXT: "Todo lo que ingreses será enviado al juego."
+            TEXT: "LUDUS INTERRUPTUS EST",
+            SUBTEXT: "Quodcunque submittis, adhuc ad ludum mittetur."
         }
     },
     HX = {
-        SHARE: "Compartir",
-        COPY_TO_CLIPBOARD: "Copiar al portapapeles",
-        COPIED: "Se copió"
+        SHARE: "Communicare",
+        COPY_TO_CLIPBOARD: "Descriptum ad servandum",
+        COPIED: "Similatur"
     },
     WX = {
         ACTION: NX,
@@ -24796,143 +24796,143 @@ const mW = {
         SHARE: HX
     },
     XX = {
-        BACK: "Voltar",
-        CANCEL: "Cancelar",
-        CLOSE: "Fechar",
-        CONFIRM: "Confirmar",
-        CREATE: "Criar",
-        DELETE: "Excluir",
-        DONE: "Pronto",
-        EDIT: "Editar",
-        OK: "OK",
-        NEXT: "Avançar",
-        NO: "Não",
-        PLAY: "Jogar",
-        PUBLISH: "Publicar",
-        REMOVE: "Remover",
-        RESET: "Redefinir",
-        SUBMIT: "Enviar",
-        TRY_AGAIN: "Tentar de novo",
-        UNDO: "Desfazer",
-        YES: "Sim"
+        BACK: "Retro",
+        CANCEL: "Recipere",
+        CLOSE: "Claudere",
+        CONFIRM: "Confirmare",
+        CREATE: "Auctorizare",
+        DELETE: "Exstinguere",
+        DONE: "Defunge",
+        EDIT: "Tractare",
+        OK: "Bene habet!",
+        NEXT: "Amplius",
+        NO: "Non",
+        PLAY: "Ludere",
+        PUBLISH: "Divulgare",
+        REMOVE: "Removere",
+        RESET: "Exstinguere",
+        SUBMIT: "Munerare",
+        TRY_AGAIN: "Iterum conare",
+        UNDO: "Adnullare",
+        YES: "Ita"
     },
     jX = {
         UGC: {
-            VISIBILITY_CONTROLLER_OFF: "enunciados ocultos no dispositivo dos jogadores",
-            VISIBILITY_CONTROLLER_ON: "enunciados exibidos no dispositivo dos jogadores",
-            VISIBILITY_SCREEN_OFF: "enunciados ocultos na tela do jogo",
-            VISIBILITY_SCREEN_ON: "enunciados exibidos na tela do jogo"
+            VISIBILITY_CONTROLLER_OFF: "monita in ludorum instrumentorum occulta",
+            VISIBILITY_CONTROLLER_ON: "monita in ludorum instrumentorum ostensa",
+            VISIBILITY_SCREEN_OFF: "monita in velo ludorum abscondita",
+            VISIBILITY_SCREEN_ON: "monita in velo ludorum visa"
         }
     },
     zX = {
-        DISCONNECTED: "Você foi desconectado.",
-        DRAWING_NOTHING: "Você tem que desenhar!",
-        PLAYER_KICKED: "Você foi expulso do jogo por um moderador.",
-        ROOM_DESTROYED: "Obrigado por jogar!",
-        ROOM_DISCONNECTED: "Desconectado",
-        TEXT_NAUGHTY: "Não pode escrever isso. Respeite os outros jogadores.",
-        TEXT_NOTHING: "Não dá para inserir texto vazio!",
-        TITLE: "Erro"
+        DISCONNECTED: "Discessisti.",
+        DRAWING_NOTHING: "Aliquid tibi pingendum est!",
+        PLAYER_KICKED: "A moderatore e ludo expulsus es.",
+        ROOM_DESTROYED: "Bene lusisti!",
+        ROOM_DISCONNECTED: "Discessisti",
+        TEXT_NAUGHTY: "Vereor ne id scribere tibi liceat. Te rogo, ut erga alios lusores reverentiam serves.",
+        TEXT_NOTHING: "Non potes nihil inscribere!",
+        TITLE: "Error"
     },
-    qX = "CARREGANDO",
+    qX = "LOADING",
     YX = {
-        JOINED_COUNT: "{count} de {maxPlayers} jogadores entraram",
-        PLAYERS_NEEDED: "1 jogador necessário para começar | {count} jogadores necessários para começar",
-        WAITING_FOR_VIP: "Aguardando {name} começar o jogo",
-        WAITING_FOR_GAMEPAD: "Aguardando o começo do jogo",
-        WAITING_FOR_NEW_GAME: "Aguardando o começo de uma nova partida",
-        GAME_STARTING: "O jogo está começando",
-        BUTTON_START: "Aperte para começar",
-        BUTTON_CANCEL: "Aperte para cancelar"
+        JOINED_COUNT: "De {maxPlayers} hominibus, {count} se adjunxerunt",
+        PLAYERS_NEEDED: "Unus ludus desideratur ut incipiat | {count} ludiores ad ludum initiandum opus sunt",
+        WAITING_FOR_VIP: "Exspecto {name} ut ludum incipiat",
+        WAITING_FOR_GAMEPAD: "Ludos incipiendos expecto",
+        WAITING_FOR_NEW_GAME: "Exspecto ludum novum ut incipiat",
+        GAME_STARTING: "Ludus incipit",
+        BUTTON_START: "Preme incipere",
+        BUTTON_CANCEL: "Preme ad rescindendum"
     },
     JX = {
-        GALLERY_LINK: "Visitar a galeria",
-        NEW_GAME_STARTED: "Começou uma nova partida",
-        PLAY_AGAIN: "Jogar de novo?",
-        THANKS_FOR_PLAYING: "Obrigado por jogar!",
-        BUTTON_GO_TO_GAME: "Ir para o jogo",
-        BUTTON_GO_TO_JACKBOX: "Voltar para jackbox.tv",
-        BUTTON_SAME_PLAYERS: "Mesmos jogadores",
-        BUTTON_NEW_PLAYERS: "Outros jogadores"
+        GALLERY_LINK: "Vis pinacothecam",
+        NEW_GAME_STARTED: "Ludus novus inceperunt",
+        PLAY_AGAIN: "Iterum ludere?",
+        THANKS_FOR_PLAYING: "Bene ludistis!",
+        BUTTON_GO_TO_GAME: "Ite ad ludum",
+        BUTTON_GO_TO_JACKBOX: "Redire ad lat.jackbox.de",
+        BUTTON_SAME_PLAYERS: "Eidem lusores",
+        BUTTON_NEW_PLAYERS: "Novi lusores"
     },
     ZX = {
-        AND: "E",
-        OR: "OU"
+        AND: "ET",
+        OR: "AUT"
     },
     QX = {
-        BUTTON_SKIP: "Pular",
-        BUTTON_NEXT: "Avançar",
-        BUTTON_DONE: "Vamos lá!"
+        BUTTON_SKIP: "Praeterire",
+        BUTTON_NEXT: "Deinde",
+        BUTTON_DONE: "Eamus!"
     },
     ej = {
-        NAME: "PLATEIA"
+        NAME: "SPECTATORES"
     },
     tj = {
         CART: {
-            CHECK_OUT: "Finalizar",
-            EMPTY: "Seu carrinho está vazio",
-            TITLE: "Carrinho de Compras",
-            TOTAL: "Total"
+            CHECK_OUT: "Persolvere pretium et abire",
+            EMPTY: "Currus tuus vacuus est",
+            TITLE: "Plaustrum mercatoris",
+            TOTAL: "totalis"
         }
     },
     rj = {
-        EPISODE_REPORT: "Denunciar episódio",
-        EPISODE_UNLOAD: "Excluir cópia local do episódio",
-        EPISODE_VIEW_AUTHOR: "Visualizar autor",
-        EPISODES_LOAD: "Carregar um episódio por ID:",
-        EPISODES_MENU: "Menu de episódios",
-        EPISODES_SELECT: "Ou selecione um episódio:",
-        EPISODES_WARNING: "Aviso: os conteúdos gerados pelos usuários não têm classificação indicativa",
+        EPISODE_REPORT: "Nuntiare Episodium",
+        EPISODE_UNLOAD: "Edere Episodium",
+        EPISODE_VIEW_AUTHOR: "Videre Auctor",
+        EPISODES_LOAD: "Episodium per indicem:",
+        EPISODES_MENU: "Index Episodiorum",
+        EPISODES_SELECT: "Aut eligere episodium:",
+        EPISODES_WARNING: "Monemus: A usoribus creatum contentum non est astimatum",
         INSTRUCTION: {
-            CREATE_TITLE: "para começar, insira o nome do episódio que conterá todos os seus enunciados e aperte “Criar”.",
-            LOAD: "criar ou carregar?",
-            PUBLISH: "publicar seu episódio",
-            TITLE: "dê um nome ao seu episódio",
-            TOGGLE_VISIBILITY: "toque para exibir/ocultar enunciados",
-            WRITE: "escreva seus enunciados"
+            CREATE_TITLE: "primum autem nomen seriei compone in qua omnes interrogationes tuae continebuntur, deinde crea.",
+            LOAD: "creare an imponere?",
+            PUBLISH: "edere tuum episodium",
+            TITLE: "dare nomen episodio tuum",
+            TOGGLE_VISIBILITY: "tange monstrare/celare incitationes",
+            WRITE: "scibere argumenta tua"
         },
         WARNING: {
-            DELETE: "Deseja mesmo excluir este episódio?",
-            TOS: "Ao compartilhar conteúdo, você concordará com os nossos [tos]Termos de Serviço[/tos]",
-            TOS_AGREE: "concordar e compartilhar"
+            DELETE: "Num certus es te velle hanc fabulam delere?",
+            TOS: "Contenta communicando, [tos]Conditiones Utendarum[/tos] nostras acceptas",
+            TOS_AGREE: "assentire et communicare"
         },
-        BACK_TO_EPISODES: "voltar aos episódios",
-        BACK_TO_MENU: "voltar ao menu",
-        CREATE_NEW_EPISODE: "criar novo episódio",
-        PREVIOUS_EPISODES: "episódios anteriores",
-        PROMPT_ADD: "adicionar enunciado",
-        PROMPT_PLACEHOLDER: "insira um enunciado",
-        PROMPTS_COUNT_HIDDEN: "({count} oculto[s])",
-        TITLE_PLACEHOLDER: "insira um título"
+        BACK_TO_EPISODES: "redire ad narrationes",
+        BACK_TO_MENU: "redire ad indicem",
+        CREATE_NEW_EPISODE: "creare novum episodium",
+        PREVIOUS_EPISODES: "episodia superiora",
+        PROMPT_ADD: "addere argumentum",
+        PROMPT_PLACEHOLDER: "imperare argumentum",
+        PROMPTS_COUNT_HIDDEN: "({count} occultae)",
+        TITLE_PLACEHOLDER: "inscribe titulum"
     },
     nj = {
         BROADCASTER: {
-            SUBTEXT: "Você conectou sua conta à extensão Jackbox Audience Kit para Twitch.",
-            WARNING: "A CONFIGURAÇÃO DE PLATEIA NÃO ESTÁ ATIVA NESTA SALA"
+            SUBTEXT: "Vos rationem vestram ad Completum Audientiae feliciter connexistis.",
+            WARNING: "IN HOC CUBICULO AUDITORUM MODUS NON EST ACTUS."
         },
         RECONNECTED: {
-            TEXT: "CONEXÃO RESTABELECIDA",
-            SUBTEXT: "Divirtam-se!"
+            TEXT: "RECONCILIATUS",
+            SUBTEXT: "Bene tibi tempus sit!"
         },
         RECONNECTING: {
             CONTROLLER: {
-                TEXT: "CONEXÃO INTERROMPIDA",
-                SUBTEXT: "Tentando reconectar-se ({attempt} de 5)"
+                TEXT: "CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Conari reconectere ({attempt} de V)"
             },
             GAME: {
-                TEXT: "CONEXÃO DO JOGO INTERROMPIDA",
-                SUBTEXT: "Aguarde enquanto tentamos restabelecer a conexão"
+                TEXT: "LUDUS CONNEXIO INTERRUPTA EST",
+                SUBTEXT: "Paulisper mane, dum conexionem reficere conamur"
             }
         },
         PAUSED: {
-            TEXT: "O JOGO ESTÁ PAUSADO",
-            SUBTEXT: "Tudo que você enviar ainda será enviado ao jogo."
+            TEXT: "LUDUS INTERRUPTUS EST",
+            SUBTEXT: "Quodcunque submittis, adhuc ad ludum mittetur."
         }
     },
     ij = {
-        SHARE: "Compartilhar",
-        COPY_TO_CLIPBOARD: "Copiar para área de transferência",
-        COPIED: "Copiado"
+        SHARE: "Communicare",
+        COPY_TO_CLIPBOARD: "Descriptum ad servandum",
+        COPIED: "Similatur"
     },
     sj = {
         ACTION: XX,
