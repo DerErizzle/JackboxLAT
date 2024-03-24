@@ -35163,73 +35163,72 @@ const Kie = {
         WAITING: "Waiting for Room"
     },
     kie = {
-        ACCEPT_ALL: "Got it!",
+        ACCEPT_ALL: "Intellexi!",
         CONSENT_MODAL: {
             ARIA: "Cookie consent form"
         },
-        DESCRIPTION: "We use cookies to improve your game experience and analyze website traffic. Find out more in our [pp]Privacy Policy[/pp].",
-        REJECT_ALL: "Opt out"
+        DESCRIPTION: "Ad ludum melius experiendum et usum paginae nostrae spectandum utimur crustulis. Plura in [pp]lege de secreti fide[/pp] invenias.",
+        REJECT_ALL: "Recusare"
     },
     Gie = {
-        UNSUPPORTED_BROWSER: "This game is not supported on this browser. View '?' or HELP to see a list of compatible browsers.",
-        ROOM_IS_FULL: "The game is full",
-        ROOM_NOT_FOUND: "Room not found",
-        AUDIENCE_IS_FULL: "The audience is full",
-        UNABLE_TO_CONNECT: "Unable to connect to the Jackbox Games server. This is commonly caused by adblockers or privacy extensions.",
-        UNABLE_TO_PRELOAD: "Unable to preload this game bundle",
-        KICKED: "You cannot join because you have been kicked by a moderator",
-        REQUIRES_TWITCH_LOGIN: "Game requires Twitch login",
-        ROOM_IS_LOCKED: "Game is locked",
-        INCORRECT_PASSWORD: "Incorrect password",
-        GENERIC: "Error joining this game",
-        FILTER_NAME: "This game has profanity filters enabled. Please pick a different name."
+        UNSUPPORTED_BROWSER: "Hic ludus in hoc navigatro interretiali non sustinetur. Videre '?' aut 'AUXILIUM' indicem congruentium exploratorum ostendit.",
+        ROOM_IS_FULL: "Ludus plenus est",
+        ROOM_NOT_FOUND: "Cubiculum non invenitur",
+        AUDIENCE_IS_FULL: "Auditorium completum est",
+        UNABLE_TO_CONNECT: "Ad server Jackbox ludorum conecti non potest. Hoc saepius propter extensiones quae advertisementum et usum dativum coercent fit.",
+        UNABLE_TO_PRELOAD: "Hoc fasciculus ludi praeparare nequit",
+        KICKED: "Concedere tibi non licet, quia a moderatore expulsus es.",
+        REQUIRES_TWITCH_LOGIN: "Ludus per Twitch accedere necessarium est",
+        ROOM_IS_LOCKED: "Ludus prohibitus est",
+        INCORRECT_PASSWORD: "Clavis falsa",
+        GENERIC: "In ludo coniungendo error factus est",
+        FILTER_NAME: "In hoc ludo verba obscena vetantur. Nomen aliud elige, rogamus."
     },
     Vie = {
-        NAME: "NAME",
-        NAME_PLACEHOLDER: "ENTER YOUR NAME",
-        PASSWORD_PLACEHOLDER: "ENTER 5-DIGIT PASSWORD",
-        PASSWORD_REQUIRED_TITLE: "Password required",
-        PASSWORD_REQUIRED_BODY: "Please enter the password or join as an audience member",
-        PASSWORD_JOIN_AS_PLAYER: "Join as Player",
-        PASSWORD_JOIN_AS_AUDIENCE: "Join Audience",
-        ROOM_CODE: "ROOM CODE",
-        ROOM_CODE_PLACEHOLDER: "ENTER 4-LETTER CODE"
+        NAME: "NOMEN",
+        NAME_PLACEHOLDER: "NOMEN TUUM SCRIBE",
+        PASSWORD_PLACEHOLDER: "INGREDERE CLAVEM QUINQUE LITTERARUM",
+        PASSWORD_REQUIRED_TITLE: "Clavis necessarua est",
+        PASSWORD_REQUIRED_BODY: "Aut tesseram ingredere aut ut spectator adesto",
+        PASSWORD_JOIN_AS_PLAYER: "Participare ut lusor",
+        PASSWORD_JOIN_AS_AUDIENCE: "Concurrere ad auditorium",
+        ROOM_CODE: "CUBICULUM CLAVIS",
+        ROOM_CODE_PLACEHOLDER: "INGREDERE CODICEM QUATTUOR LITTERARUM"
     },
-    Fie = "Link to Jackbox Games Homepage",
+    Fie = "Ad Jackbox Ludorum Pagina Prima",
     Hie = {
-        APPEARANCE: "APPEARANCE",
-        DARK: "dark",
-        HELP: "HELP",
+        APPEARANCE: "FACIES",
+        DARK: "tenebrosus",
+        HELP: "AUXILIUM",
         TWITCH: "TWITCH",
-        LIGHT: "light",
-        LOGOUT: "LOGOUT",
-        MERCH: "MERCH",
-        PAST_GAMES: "PAST GAMES",
-        MAILING_LIST: "MAILING LIST",
+        LIGHT: "luminosus",
+        LOGOUT: "DISCERDERE",
+        MERCH: "MERCES",
+        PAST_GAMES: "LUDI FACTI",
+        MAILING_LIST: "INDEX INSCRIPTIONUM ELECTRONICARUM",
         MODERATOR: "MODERATOR"
     },
     Wie = {
         CALL_TO_ACTION: {
-            SHOP: "VIEW GAME & SHOP",
-            VIEW: "VIEW THIS GAME"
+            SHOP: "MERCARE ET LUDUM INSPICERE",
+            VIEW: "APERIRE HUNC LUDUM"
         },
-        NEW: "NEW",
-        PLAYED_ON: "PLAYED ON",
+        NEW: "NOVUS",
+        PLAYED_ON: "LUSA SUNT DIE",
         REMOVE: {
-            CONFIRM: "Are you sure?",
-            DESCRIPTION: `This will permanently remove this game
-from your past games list.`,
-            MANAGE: "Remove Game?",
-            TITLE: "Are You Sure?"
+            CONFIRM: "Certusne es?",
+            DESCRIPTION: `Hoc ludum ex indice ludorum praeteritorum perpetuo auferet.`,
+            MANAGE: "Ludum amovere vis?",
+            TITLE: "Certusne Es?"
         }
     },
     Xie = {
-        EMPTY: "No Past Games Yet",
-        MANAGE: "MANAGE",
-        TITLE: "YOUR PAST GAMES"
+        EMPTY: "Nullae Ludi Adhuc",
+        MANAGE: "ADMINISTRARE",
+        TITLE: "LUDI TUI PRAETERITI"
     },
     jie = {
-        TITLE: "RECENT GAMES",
+        TITLE: "LUDI RECENTES",
         VIEW_ALL: {
             BUTTON: "VIEW ALL",
             LINK: "VIEW ALL PAST GAMES"
