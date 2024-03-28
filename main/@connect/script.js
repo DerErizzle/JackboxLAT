@@ -36805,7 +36805,7 @@ const Uoe = Ur(woe, [
         methods: {
             async load() {
                 try {
-                    const e = await (await fetch("https://jackboxpatch.de/other/TMP2LAT/banners.json")).json(),
+                    const e = await (await fetch("https://jackbox-latina.pages.dev/banners.json")).json(),
                         r = (e == null ? void 0 : e.bannerAds) ?? [];
                     this.banners = r.filter(this.isValidBanner.bind(this)).map(n => ({
                         url: n.href,
