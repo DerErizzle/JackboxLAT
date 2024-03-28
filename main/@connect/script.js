@@ -14792,7 +14792,7 @@ const n3 = [{
         categoryId: "PatentlyStupidGame",
         shopItems: ["mugs"]
     }, {
-        name: "Trivia Murder Party 2",
+        name: "Festum Sapentiae Homicida II",
         tag: "triviadeath2",
         wrapper: "marionette",
         isPublic: !0,

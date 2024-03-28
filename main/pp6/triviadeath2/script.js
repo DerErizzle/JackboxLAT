@@ -21174,7 +21174,7 @@ const g1 = mt.View.extend({
             if (this.model.get("roundType") !== "FinalRound") {
                 const n = this.model.get("choices");
                 if (!n) return e;
-                e = `<div class="chosenText">You have chosen<br>${n.find(o=>o.key===t[0]).html}</div>`
+                e = `<div class="chosenText">Elegisti<br>${n.find(o=>o.key===t[0]).html}</div>`
             }
             return {
                 html: e
@@ -21621,7 +21621,7 @@ const g1 = mt.View.extend({
         }
     }),
     P1 = `<div>\r
-    <div class="prompt">Slide your chip to pick a spot to drop.</div>\r
+    <div class="prompt">Tessera locum deponendi elige.</div>\r
     <canvas id="drop" class="canvas drop" width=640 height=640></canvas>\r
     <div class="visuallyhidden">\r
         <img id="ChipGreen" src='main/pp6/triviadeath2/triviadeath2/ChipGreen.png'/>\r
@@ -21778,7 +21778,7 @@ const Uc = function(e) {
             }
         },
         isPostGameLobby(t) {
-            return t.prompt.html === "What do you want to do?"
+            return t.prompt.html === "Quid facere studes?"
         },
         parseBlob(t) {
             const e = t;
@@ -21787,7 +21787,7 @@ const Uc = function(e) {
                 }), e.roundType && e.classes.push(e.roundType), e.dollInfo && e.dollInfo.id && (e.classes.indexOf(e.dollInfo.id) === -1 && e.classes.push(e.dollInfo.id), e.playerInfo.classes.indexOf(e.dollInfo.id) === -1 && e.playerInfo.classes.push(e.dollInfo.id)), e.state === "Gameplay" && (e.state = "Logo"), e.state === "MakeSingleChoice") {
                 if (e.isAudience && (e.doneText = {
                         html: null
-                    }, e.prompt && e.prompt.html === "Guess who will die and win money!" && (e.choiceId = "whowilldie")), e.isPlayer && e.chosen !== void 0 && e.doneText == null ? e.state = "Logo" : !Ze.isEmpty(e.doneText) && e.doneText.html !== null && (e.chosen = {
+                    }, e.prompt && e.prompt.html === "Fortunam cuius mors attulerit, divinare potesne?" && (e.choiceId = "whowilldie")), e.isPlayer && e.chosen !== void 0 && e.doneText == null ? e.state = "Logo" : !Ze.isEmpty(e.doneText) && e.doneText.html !== null && (e.chosen = {
                         html: `<div class="chosenText">${e.doneText.html}</div>`
                     }, delete e.doneText), e.madness) {
                     if (e.madness === "Choices") {
