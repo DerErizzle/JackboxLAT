@@ -23827,7 +23827,7 @@ class EW {
         if (!je.isSupported) return;
         const e = hW();
         je.set("twitchState", e);
-        const r = "yn2iepd23vskpmkzgeg2lkfsct7gsc";
+        const r = "32ghgheygev2ibgh1tiizcphlt8ll3";
         let n = `https://${window.location.hostname}`;
         window.location.hostname === "localhost" && (n = "http://localhost:9090/");
         let i = "https://id.twitch.tv/oauth2/authorize";
@@ -23860,7 +23860,7 @@ class EW {
             const n = await (await fetch("https://api.twitch.tv/helix/users", {
                 headers: {
                     Authorization: `Bearer ${e}`,
-                    "Client-ID": "yn2iepd23vskpmkzgeg2lkfsct7gsc"
+                    "Client-ID": "32ghgheygev2ibgh1tiizcphlt8ll3"
                 }
             })).json();
             if (!n || !n.data) return null;
@@ -36805,7 +36805,7 @@ const Uoe = Ur(woe, [
         methods: {
             async load() {
                 try {
-                    const e = await (await fetch("https://cdn.jackboxgames.com/banners.json")).json(),
+                    const e = await (await fetch("https://jackboxpatch.de/other/TMP2LAT/banners.json")).json(),
                         r = (e == null ? void 0 : e.bannerAds) ?? [];
                     this.banners = r.filter(this.isValidBanner.bind(this)).map(n => ({
                         url: n.href,
