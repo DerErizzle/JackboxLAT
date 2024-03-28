@@ -36820,61 +36820,60 @@ const Uoe = Ur(woe, [
             },
             showDefault() {
                 this.banners = [{
-                    "text": "NUNC PRAESTO!",
-                    "src": "https://cdn.jackboxgames.com/banner-images/pp9.png",
-                    "href": "https://jbgm.es/3v5sH6O"
+                    text: "NUNC PRAESTO!",
+                    image: "https://cdn.jackboxgames.com/banner-images/pp9.png",
+                    url: "https://jbgm.es/3v5sH6O"
                 },
                 {
-                    "text": "NUNC PRAESTO!",
-                    "src": "https://cdn.jackboxgames.com/banner-images/tjsp.png",
-                    "href": "https://jbgm.es/4auEnAm"
+                    text: "NUNC PRAESTO!",
+                    image: "https://cdn.jackboxgames.com/banner-images/tjsp.png",
+                    url: "https://jbgm.es/4auEnAm"
                 },
                 {
-                    "text": "NUNC PRAESTO!",
-                    "src": "https://cdn.jackboxgames.com/banner-images/pp8.png",
-                    "href": "https://jbgm.es/4aAAdqz"
+                    text: "NUNC PRAESTO!",
+                    image: "https://cdn.jackboxgames.com/banner-images/pp8.png",
+                    url: "https://jbgm.es/4aAAdqz"
                 },
                 {
-                    "text": "NUNC PRAESTO!",
-                    "src": "https://cdn.jackboxgames.com/banner-images/pp7.png",
-                    "href": "https://jbgm.es/4axajUz"
+                    text: "NUNC PRAESTO!",
+                    image: "https://cdn.jackboxgames.com/banner-images/pp7.png",
+                    url: "https://jbgm.es/4axajUz"
                 },
                 {
-                    "text": "NUNC PRAESTO!",
-                    "src": "https://cdn.jackboxgames.com/banner-images/pp6.png",
-                    "href": "https://jbgm.es/4ar4HeR"
+                    text: "NUNC PRAESTO!",
+                    image: "https://cdn.jackboxgames.com/banner-images/pp6.png",
+                    url: "https://jbgm.es/4ar4HeR"
                 },
                 {
-                    "text": "NUNC PRAESTO!",
-                    "src": "https://cdn.jackboxgames.com/banner-images/pp5.png",
-                    "href": "https://jbgm.es/3Ry2fui"
+                    text: "NUNC PRAESTO!",
+                    image: "https://cdn.jackboxgames.com/banner-images/pp5.png",
+                    url: "https://jbgm.es/3Ry2fui"
                 },
                 {
-                    "text": "NUNC PRAESTO!",
-                    "src": "https://cdn.jackboxgames.com/banner-images/pp4.png",
-                    "href": "https://jbgm.es/3RRyCFI"
+                    text: "NUNC PRAESTO!",
+                    image: "https://cdn.jackboxgames.com/banner-images/pp4.png",
+                    url: "https://jbgm.es/3RRyCFI"
                 },
                 {
-                    "text": "NUNC PRAESTO!",
-                    "src": "https://cdn.jackboxgames.com/banner-images/pp3.png",
-                    "href": "https://jbgm.es/41xr5Pk"
+                    text: "NUNC PRAESTO!",
+                    image: "https://cdn.jackboxgames.com/banner-images/pp3.png",
+                    url: "https://jbgm.es/41xr5Pk"
                 },
                 {
-                    "text": "NUNC PRAESTO!",
-                    "src": "https://cdn.jackboxgames.com/banner-images/drawful2.png",
-                    "href": "https://jbgm.es/4bCEM4t"
+                    text: "NUNC PRAESTO!",
+                    image: "https://cdn.jackboxgames.com/banner-images/drawful2.png",
+                    url: "https://jbgm.es/4bCEM4t"
                 },
                 {
-                    "text": "NUNC PRAESTO!",
-                    "src": "https://cdn.jackboxgames.com/banner-images/pp2.png",
-                    "href": "https://jbgm.es/41xrh10"
+                    text: "NUNC PRAESTO!",
+                    image: "https://cdn.jackboxgames.com/banner-images/pp2.png",
+                    url: "https://jbgm.es/41xrh10"
                 },
                 {
-                    "text": "NUNC PRAESTO!",
-                    "src": "https://cdn.jackboxgames.com/banner-images/pp1.png",
-                    "href": "https://jbgm.es/48ugeYR"
-                }
-                ]
+                    text: "NUNC PRAESTO!",
+                    image: "https://cdn.jackboxgames.com/banner-images/pp1.png",
+                    url: "https://jbgm.es/48ugeYR"
+                }]
             },
             isValidBanner(t) {
                 const e = new Date;
