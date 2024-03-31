@@ -21782,7 +21782,7 @@ const Uc = function (e) {
         },
         parseBlob(t) {
             const e = t;
-            if (e.classes = e.classes || [], e.playerInfo = e.playerInfo || {}, e.playerInfo.classes = e.playerInfo.classes || [], e.isAudience && (e.playerInfo.username = "AUDIENCE", e.dollInfo = {
+            if (e.classes = e.classes || [], e.playerInfo = e.playerInfo || {}, e.playerInfo.classes = e.playerInfo.classes || [], e.isAudience && (e.playerInfo.username = "SPECTATORES", e.dollInfo = {
                 id: "Audience"
             }), e.roundType && e.classes.push(e.roundType), e.dollInfo && e.dollInfo.id && (e.classes.indexOf(e.dollInfo.id) === -1 && e.classes.push(e.dollInfo.id), e.playerInfo.classes.indexOf(e.dollInfo.id) === -1 && e.playerInfo.classes.push(e.dollInfo.id)), e.state === "Gameplay" && (e.state = "Logo"), e.state === "MakeSingleChoice") {
                 if (e.isAudience && (e.doneText = {
