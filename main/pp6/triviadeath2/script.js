@@ -16940,8 +16940,8 @@ mt.View.extend({
     },
     onRoomWasDestroyed() {
         tn.remove("roomCode"), tn.remove("reconnect"), Ot.show("error", {
-            titleText: "Disconnected",
-            text: "Thanks for playing!",
+            titleText: "De conexu discessum est",
+            text: "Gratias agimus pro ludo!",
             willClose: () => {
                 window.location.reload(!0)
             }
@@ -16949,8 +16949,8 @@ mt.View.extend({
     },
     onDisconnected() {
         Ot.show("error", {
-            titleText: "Disconnected",
-            text: "You have been disconnected.",
+            titleText: "De conexu discessum est",
+            text: "A conexu remotus es.",
             willClose: () => {
                 window.location.reload(!0)
             }
@@ -17479,8 +17479,8 @@ const px = `<div id="controller" class="state-controller controller-content">
             SUPPORTED_LOCALES: ["en", "fr", "it", "de", "es"],
             LANGUAGE: "Language",
             LOGIN: "Login",
-            STRING_ERROR_SERVER_ROOM_DISCONNECTED: "Disconnected",
-            STRING_ERROR_SERVER_ROOM_DESTROYED: "Thanks for playing!"
+            STRING_ERROR_SERVER_ROOM_DISCONNECTED: "De conexu discessum est",
+            STRING_ERROR_SERVER_ROOM_DESTROYED: "De conexu discessum est"
         },
         fr: {
             LANGUAGE_NAME: "Fran\xE7ais",
@@ -17488,8 +17488,8 @@ const px = `<div id="controller" class="state-controller controller-content">
             SUPPORTED_LOCALES: ["en", "fr", "it", "de", "es"],
             LANGUAGE: "Langue",
             LOGIN: "Connexion",
-            STRING_ERROR_SERVER_ROOM_DISCONNECTED: "D\xE9connect\xE9",
-            STRING_ERROR_SERVER_ROOM_DESTROYED: "Vous avez \xE9t\xE9 d\xE9connect\xE9"
+            STRING_ERROR_SERVER_ROOM_DISCONNECTED: "De conexu discessum est",
+            STRING_ERROR_SERVER_ROOM_DESTROYED: "De conexu discessum est"
         },
         it: {
             LANGUAGE_NAME: "Italiano",
@@ -17497,8 +17497,8 @@ const px = `<div id="controller" class="state-controller controller-content">
             SUPPORTED_LOCALES: ["en", "fr", "it", "de", "es"],
             LANGUAGE: "Lingua",
             LOGIN: "Accesso",
-            STRING_ERROR_SERVER_ROOM_DISCONNECTED: "Disconnesso",
-            STRING_ERROR_SERVER_ROOM_DESTROYED: "Disconnesso"
+            STRING_ERROR_SERVER_ROOM_DISCONNECTED: "De conexu discessum est",
+            STRING_ERROR_SERVER_ROOM_DESTROYED: "De conexu discessum est"
         },
         de: {
             LANGUAGE_NAME: "Deutsche",
@@ -17506,8 +17506,8 @@ const px = `<div id="controller" class="state-controller controller-content">
             SUPPORTED_LOCALES: ["en", "fr", "it", "de", "es"],
             LANGUAGE: "Sprache",
             LOGIN: "Login",
-            STRING_ERROR_SERVER_ROOM_DISCONNECTED: "Getrennt",
-            STRING_ERROR_SERVER_ROOM_DESTROYED: "Getrennt"
+            STRING_ERROR_SERVER_ROOM_DISCONNECTED: "De conexu discessum est",
+            STRING_ERROR_SERVER_ROOM_DESTROYED: "De conexu discessum est"
         },
         es: {
             LANGUAGE_NAME: "Espa\xF1ol",
@@ -17515,8 +17515,8 @@ const px = `<div id="controller" class="state-controller controller-content">
             SUPPORTED_LOCALES: ["en", "fr", "it", "de", "es"],
             LANGUAGE: "idioma",
             LOGIN: "Iniciar sesi\xF3n",
-            STRING_ERROR_SERVER_ROOM_DISCONNECTED: "Desconectado",
-            STRING_ERROR_SERVER_ROOM_DESTROYED: "Desconectado"
+            STRING_ERROR_SERVER_ROOM_DISCONNECTED: "De conexu discessum est",
+            STRING_ERROR_SERVER_ROOM_DESTROYED: "De conexu discessum est"
         }
     },
     Cx = `<div id="player" class="playerTopBar">
